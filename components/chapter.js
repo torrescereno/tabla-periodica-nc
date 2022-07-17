@@ -4,12 +4,12 @@ import Link from "next/link"
 export default function Capitulo (props) {
     const {info} = props
     return (
-      <div className="p-5 m-1 w-full lg:w-1/2">
+      <div className="p-5 m-1 w-full lg:w-8/12">
         <div id={info.nombre} className="flex text-center items-center mt-5 mb-5">
           <span className={`w-6 h-6 inline-block flex-none shadow-3xl rounded-full ${info.color} mr-5`}></span>
           <h2 className="text-lg font-bold md:text-2xl">{info.nombre}</h2>
         </div>
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-5">
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-5 lg:grid-cols-5 xl:grid-cols-9">
           {info.data.map((data) => {
             return (
                 <Link key={data.id} href={`/articulo/${data.id}`}>

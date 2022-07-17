@@ -6,15 +6,6 @@ export default function Nav() {
   return (
     <>
      <section className="text-white bg-purple-900">
-       {/* <div className="flex justify-evenly text-center pt-2 lg:pt-8">
-          <a className="mt-2 p-2 border-2 rounded-md w-40" href="/pdf/Texto-CPR-2022.pdf" target="_blank" rel="noopener noreferrer">
-              Descarga PDF
-          </a>
-          <a href="https://www.chileconvencion.cl/" className="mt-2 p-2 border-2 rounded-md w-40" target="_blank" rel="noopener noreferrer">
-              chileconvencion.cl
-          </a>
-        </div> */}
-
         <section className="flex justify-center items-center">
           <div className="mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between text-center">
             <div className="text-2xl md:text-4xl lg:text-6xl font-extrabold tracking-tigh">
