@@ -1,0 +1,194 @@
+[
+    {
+        "capitulo": {
+            "nombre": "Principios y disposiciones generales",
+            "color": "bg-blue-200",
+            "data": [
+                {
+                    "id": 1,
+                    "num_articulo": 1,
+                    "num_inciso": 13,
+                    "simbolo": "E",
+                    "nombre_corto": "Estado",
+                    "pag": 15
+                },
+                {
+                    "id": 2,
+                    "num_articulo": 3,
+                    "num_inciso": 1,
+                    "simbolo": "T",
+                    "nombre_corto": "Territorio único",
+                    "pag": 5
+                },
+                {
+                    "id": 3,
+                    "num_articulo": 4,
+                    "num_inciso": 1,
+                    "simbolo": "L",
+                    "nombre_corto": "Libertad e igualidad",
+                    "pag": 5
+                },
+                {
+                    "id": 4,
+                    "num_articulo": 10,
+                    "num_inciso": 1,
+                    "simbolo": "F",
+                    "nombre_corto": "Familias",
+                    "pag": 7
+                },
+                {
+                    "id": 5,
+                    "num_articulo": 11,
+                    "num_inciso": 1,
+                    "simbolo": "Ik",
+                    "nombre_corto": "Interculturalidad",
+                    "pag": 5
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Sobre los derechos",
+            "color": "bg-pink-200",
+            "data": [
+                {
+                    "id": 6,
+                    "num_articulo": 17,
+                    "num_inciso": 2,
+                    "simbolo": "D",
+                    "nombre_corto": "Derechos fundamentales",
+                    "pag": 9
+                },
+                {
+                    "id": 7,
+                    "num_articulo": 18,
+                    "num_inciso": 3,
+                    "simbolo": "Tt",
+                    "nombre_corto": "Titulatidad de derechos",
+                    "pag": 9
+                },
+                {
+                    "id": 8,
+                    "num_articulo": 19,
+                    "num_inciso": 3,
+                    "simbolo": "G",
+                    "nombre_corto": "Garantías",
+                    "pag": 9
+                },
+                {
+                    "id": 9,
+                    "num_articulo": 20,
+                    "num_inciso": 2,
+                    "simbolo": "Pg",
+                    "nombre_corto": "Progresividad",
+                    "pag": 9
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Derechos fundamentales",
+            "color": "bg-blue-200",
+            "data": [
+                {
+                    "id": 10,
+                    "num_articulo": 21,
+                    "num_inciso": 2,
+                    "simbolo": "V",
+                    "nombre_corto": "Vida e integridad física",
+                    "pag": 9
+                },
+                {
+                    "id": 11,
+                    "num_articulo": 22,
+                    "num_inciso": 1,
+                    "simbolo": "Bu",
+                    "nombre_corto": "Derecho a ser biscado(a)",
+                    "pag": 10
+                },
+                {
+                    "id": 12,
+                    "num_articulo": 33,
+                    "num_inciso": 2,
+                    "simbolo": "Ms",
+                    "nombre_corto": "Personas mayores",
+                    "pag": 14
+                },
+                {
+                    "id": 13,
+                    "num_articulo": 34,
+                    "num_inciso": 1,
+                    "simbolo": "Ni",
+                    "nombre_corto": "Naciones indígenas",
+                    "pag": 14
+                },
+                {
+                    "id": 14,
+                    "num_articulo": 35,
+                    "num_inciso": 7,
+                    "simbolo": "Ed",
+                    "nombre_corto": "Educación",
+                    "pag": 14
+                },
+                {
+                    "id": 15,
+                    "num_articulo": 36,
+                    "num_inciso": 8,
+                    "simbolo": "Sn",
+                    "nombre_corto": "Sistema Nacional de Educación",
+                    "pag": 14
+                },
+                {
+                    "id": 16,
+                    "num_articulo": 37,
+                    "num_inciso": 6,
+                    "simbolo": "U",
+                    "nombre_corto": "Educación superior",
+                    "pag": 16
+                },
+                {
+                    "id": 17,
+                    "num_articulo": 38,
+                    "num_inciso": 1,
+                    "simbolo": "Ep",
+                    "nombre_corto": "Educación permanente",
+                    "pag": 16
+                },
+                {
+                    "id": 18,
+                    "num_articulo": 39,
+                    "num_inciso": 1,
+                    "simbolo": "Ea",
+                    "nombre_corto": "Educación ambiental",
+                    "pag": 17
+                },
+                {
+                    "id": 19,
+                    "num_articulo": 40,
+                    "num_inciso": 1,
+                    "simbolo": "Sx",
+                    "nombre_corto": "Educación sexual integral",
+                    "pag": 17
+                },
+                {
+                    "id": 20,
+                    "num_articulo": 41,
+                    "num_inciso": 3,
+                    "simbolo": "Sñ",
+                    "nombre_corto": "Libertad de enseñanza",
+                    "pag": 17
+                },
+                {
+                    "id": 21,
+                    "num_articulo": 41,
+                    "num_inciso": 3,
+                    "simbolo": "Sñ",
+                    "nombre_corto": "Libertad de enseñanza",
+                    "pag": 17
+                }
+            ]
+        }
+    }
+]
