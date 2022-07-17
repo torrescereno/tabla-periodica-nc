@@ -174,9 +174,8 @@ export default function Description(){
                     }
                   </div>
                 </div>
-
                 <div className="mt-5 -mb-16 lg:mt-0 lg:-mb-0 items-center justify-center lg:w-1/3 relative">
-                  <Image alt="Como funciona" objectFit="cover" src={Logo} />
+                  <Image alt="Como funciona" objectFit="cover" width={2950} src={Logo} />
                 </div>
             </div>
         </>

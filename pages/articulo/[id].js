@@ -38,7 +38,7 @@ export default function Articulo() {
         </div>
         <div className="px-5 font-semibold text-purple-800 lg:mt-8">
           <Link href="/">
-            Volver a la tabla periódica
+            <p className="hover:underline cursor-pointer">Volver a la tabla periódica</p>
           </Link>
         </div>
       </section>
