@@ -2,7 +2,7 @@
     {
         "capitulo": {
             "nombre": "Principios y disposiciones generales",
-            "color": "bg-blue-200",
+            "color": "bg-blue-300",
             "data": [
                 {
                     "id": 1,
@@ -43,6 +43,838 @@
                     "simbolo": "Ik",
                     "nombre_corto": "Interculturalidad",
                     "pag": 5
+                },
+                {
+                    "id": 6,
+                    "num_articulo": 2,
+                    "num_inciso": 2,
+                    "simbolo": "S",
+                    "nombre_corto": "Soberanía",
+                    "pag": 5
+                },
+                {
+                    "id": 7,
+                    "num_articulo": 5,
+                    "num_inciso": 3,
+                    "simbolo": "Pl",
+                    "nombre_corto": "Plirinacionalidad",
+                    "pag": 5
+                },
+                {
+                    "id": 8,
+                    "num_articulo": 6,
+                    "num_inciso": 5,
+                    "simbolo": "Is",
+                    "nombre_corto": "Igualdad sexogenérica",
+                    "pag": 6
+                },
+                {
+                    "id": 9,
+                    "num_articulo": 7,
+                    "num_inciso": 1,
+                    "simbolo": "Eq",
+                    "nombre_corto": "Equilibrio con la naturaleza",
+                    "pag": 6
+                },
+                {
+                    "id": 10,
+                    "num_articulo": 9,
+                    "num_inciso": 1,
+                    "simbolo": "El",
+                    "nombre_corto": "Estado laico",
+                    "pag": 7
+                },
+                {
+                    "id": 11,
+                    "num_articulo": 12,
+                    "num_inciso": 2,
+                    "simbolo": "Lg",
+                    "nombre_corto": "Plurilingüismo",
+                    "pag": 7
+                },
+                {
+                    "id": 12,
+                    "num_articulo": 13,
+                    "num_inciso": 2,
+                    "simbolo": "Em",
+                    "nombre_corto": "Emblemas",
+                    "pag": 7
+                },
+                {
+                    "id": 13,
+                    "num_articulo": 14,
+                    "num_inciso": 3,
+                    "simbolo": "Rz",
+                    "nombre_corto": "Relaciones internacionales",
+                    "pag": 7
+                },
+                {
+                    "id": 14,
+                    "num_articulo": 15,
+                    "num_inciso": 2,
+                    "simbolo": "Dh",
+                    "nombre_corto": "Derechos humanos",
+                    "pag": 8
+                },
+                {
+                    "id": 15,
+                    "num_articulo": 16,
+                    "num_inciso": 4,
+                    "simbolo": "Su",
+                    "nombre_corto": "Supremacía constitucional",
+                    "pag": 8
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Derechos fundamentales",
+            "color": "bg-pink-400",
+            "data": [
+                {
+                    "id": 33,
+                    "num_articulo": 21,
+                    "num_inciso": 2,
+                    "simbolo": "V",
+                    "nombre_corto": "Vida e integridad física",
+                    "pag": 9
+                },
+                {
+                    "id": 34,
+                    "num_articulo": 22,
+                    "num_inciso": 1,
+                    "simbolo": "Bu",
+                    "nombre_corto": "Derecho a ser biscado(a)",
+                    "pag": 10
+                },
+                {
+                    "id": 35,
+                    "num_articulo": 23,
+                    "num_inciso": 1,
+                    "simbolo": "Ds",
+                    "nombre_corto": "Derecho a no ser desterrado(a)",
+                    "pag": 10
+                },
+                {
+                    "id": 36,
+                    "num_articulo": 24,
+                    "num_inciso": 5,
+                    "simbolo": "Ve",
+                    "nombre_corto": "Verdad y justa reparación",
+                    "pag": 10
+                },
+                {
+                    "id": 37,
+                    "num_articulo": 24,
+                    "num_inciso": 5,
+                    "simbolo": "Ig",
+                    "nombre_corto": "Igualdad y no discriminación",
+                    "pag": 10
+                },
+                {
+                    "id": 38,
+                    "num_articulo": 26,
+                    "num_inciso": 5,
+                    "simbolo": "Nñ",
+                    "nombre_corto": "Niñas, niños y adolescentes",
+                    "pag": 11
+                },
+                {
+                    "id": 39,
+                    "num_articulo": 2,
+                    "num_inciso": 5,
+                    "simbolo": "Vg",
+                    "nombre_corto": "Vida libre de violencia de género",
+                    "pag": 12
+                },
+                {
+                    "id": 40,
+                    "num_articulo": 28,
+                    "num_inciso": 5,
+                    "simbolo": "Dc",
+                    "nombre_corto": "Personas con discapacidad",
+                    "pag": 12
+                },
+                {
+                    "id": 41,
+                    "num_articulo": 29,
+                    "num_inciso": 1,
+                    "simbolo": "Ne",
+                    "nombre_corto": "Neurodivercidad",
+                    "pag": 13
+                },
+                {
+                    "id": 42,
+                    "num_articulo": 30,
+                    "num_inciso": 4,
+                    "simbolo": "Ph",
+                    "nombre_corto": "Personas privadas de libertad",
+                    "pag": 13
+                },
+                {
+                    "id": 43,
+                    "num_articulo": 31,
+                    "num_inciso": 2,
+                    "simbolo": "Ph",
+                    "nombre_corto": "Personas privadas de libertad II",
+                    "pag": 13
+                },
+                {
+                    "id": 44,
+                    "num_articulo": 32,
+                    "num_inciso": 2,
+                    "simbolo": "Rs",
+                    "nombre_corto": "Reinserción social",
+                    "pag": 14
+                },
+                {
+                    "id": 45,
+                    "num_articulo": 33,
+                    "num_inciso": 2,
+                    "simbolo": "Ms",
+                    "nombre_corto": "Personas mayores",
+                    "pag": 14
+                },
+                {
+                    "id": 46,
+                    "num_articulo": 34,
+                    "num_inciso": 1,
+                    "simbolo": "Ni",
+                    "nombre_corto": "Naciones indígenas",
+                    "pag": 14
+                },
+                {
+                    "id": 47,
+                    "num_articulo": 35,
+                    "num_inciso": 7,
+                    "simbolo": "Ed",
+                    "nombre_corto": "Educación",
+                    "pag": 14
+                },
+                {
+                    "id": 48,
+                    "num_articulo": 36,
+                    "num_inciso": 8,
+                    "simbolo": "Sn",
+                    "nombre_corto": "Sistema Nacional de Edicación",
+                    "pag": 15
+                },
+                {
+                    "id": 49,
+                    "num_articulo": 37,
+                    "num_inciso": 6,
+                    "simbolo": "U",
+                    "nombre_corto": "Educación superior",
+                    "pag": 16
+                },
+                {
+                    "id": 50,
+                    "num_articulo": 38,
+                    "num_inciso": 1,
+                    "simbolo": "Ep",
+                    "nombre_corto": "Educación permanente",
+                    "pag": 16
+                },
+                {
+                    "id": 51,
+                    "num_articulo": 39,
+                    "num_inciso": 1,
+                    "simbolo": "Ea",
+                    "nombre_corto": "Educación ambiental",
+                    "pag": 17
+                },
+                {
+                    "id": 52,
+                    "num_articulo": 40,
+                    "num_inciso": 1,
+                    "simbolo": "Sx",
+                    "nombre_corto": "Educación sexual integral",
+                    "pag": 17
+                },
+                {
+                    "id": 53,
+                    "num_articulo": 41,
+                    "num_inciso": 3,
+                    "simbolo": "Sñ",
+                    "nombre_corto": "Libertad de enseñanza",
+                    "pag": 17
+                },
+                {
+                    "id": 54,
+                    "num_articulo": 42,
+                    "num_inciso": 1,
+                    "simbolo": "Ce",
+                    "nombre_corto": "Comunidades educativas",
+                    "pag": 17
+                },
+                {
+                    "id": 55,
+                    "num_articulo": 43,
+                    "num_inciso": 3,
+                    "simbolo": "Pf",
+                    "nombre_corto": "Profesoras y profesores",
+                    "pag": 17
+                },
+                {
+                    "id": 56,
+                    "num_articulo": 44,
+                    "num_inciso": 11,
+                    "simbolo": "Sa",
+                    "nombre_corto": "Salud",
+                    "pag": 18
+                },
+                {
+                    "id": 57,
+                    "num_articulo": 45,
+                    "num_inciso": 4,
+                    "simbolo": "Ss",
+                    "nombre_corto": "Seguridad social",
+                    "pag": 19
+                },
+                {
+                    "id": 58,
+                    "num_articulo": 46,
+                    "num_inciso": 8,
+                    "simbolo": "Tr",
+                    "nombre_corto": "Trabajo",
+                    "pag": 19
+                },
+                {
+                    "id": 59,
+                    "num_articulo": 47,
+                    "num_inciso": 8,
+                    "simbolo": "Si",
+                    "nombre_corto": "Sindicalización",
+                    "pag": 20
+                },
+                {
+                    "id": 60,
+                    "num_articulo": 48,
+                    "num_inciso": 1,
+                    "simbolo": "Ps",
+                    "nombre_corto": "Participación sindical",
+                    "pag": 21
+                },
+                {
+                    "id": 61,
+                    "num_articulo": 49,
+                    "num_inciso": 2,
+                    "simbolo": "Td",
+                    "nombre_corto": "Trabajo doméstico y de cuidados",
+                    "pag": 21
+                },
+                {
+                    "id": 62,
+                    "num_articulo": 50,
+                    "num_inciso": 3,
+                    "simbolo": "Cu",
+                    "nombre_corto": "Cuidado",
+                    "pag": 21
+                },
+                {
+                    "id": 63,
+                    "num_articulo": 51,
+                    "num_inciso": 5,
+                    "simbolo": "Vi",
+                    "nombre_corto": "Vivienda",
+                    "pag": 22
+                },
+                {
+                    "id": 64,
+                    "num_articulo": 52,
+                    "num_inciso": 5,
+                    "simbolo": "Cd",
+                    "nombre_corto": "Ciudad y territorio",
+                    "pag": 22
+                },
+                {
+                    "id": 65,
+                    "num_articulo": 53,
+                    "num_inciso": 2,
+                    "simbolo": "Sg",
+                    "nombre_corto": "Seguridad",
+                    "pag": 23
+                },
+                {
+                    "id": 66,
+                    "num_articulo": 54,
+                    "num_inciso": 4,
+                    "simbolo": "Al",
+                    "nombre_corto": "Soberanía alimentaria",
+                    "pag": 23
+                },
+                {
+                    "id": 67,
+                    "num_articulo": 55,
+                    "num_inciso": 1,
+                    "simbolo": "Sm",
+                    "nombre_corto": "Semillas",
+                    "pag": 23
+                },
+                {
+                    "id": 68,
+                    "num_articulo": 56,
+                    "num_inciso": 2,
+                    "simbolo": "Nu",
+                    "nombre_corto": "Alimentación saludable",
+                    "pag": 23
+                },
+                {
+                    "id": 69,
+                    "num_articulo": 57,
+                    "num_inciso": 2,
+                    "simbolo": "Ag",
+                    "nombre_corto": "Derecho humano al agua",
+                    "pag": 24
+                },
+                {
+                    "id": 70,
+                    "num_articulo": 58,
+                    "num_inciso": 1,
+                    "simbolo": "Ao",
+                    "nombre_corto": "Aguas de pueblos orifinarios",
+                    "pag": 24
+                },
+                {
+                    "id": 71,
+                    "num_articulo": 59,
+                    "num_inciso": 5,
+                    "simbolo": "En",
+                    "nombre_corto": "Energía",
+                    "pag": 24
+                },
+                {
+                    "id": 72,
+                    "num_articulo": 60,
+                    "num_inciso": 3,
+                    "simbolo": "Dp",
+                    "nombre_corto": "Deporte",
+                    "pag": 24
+                },
+                {
+                    "id": 73,
+                    "num_articulo": 61,
+                    "num_inciso": 4,
+                    "simbolo": "Sr",
+                    "nombre_corto": "Derechos sexuales y reproductivos",
+                    "pag": 25
+                },
+                {
+                    "id": 74,
+                    "num_articulo": 62,
+                    "num_inciso": 1,
+                    "simbolo": "Pe",
+                    "nombre_corto": "Autonomía personal",
+                    "pag": 25
+                },
+                {
+                    "id": 75,
+                    "num_articulo": 63,
+                    "num_inciso": 1,
+                    "simbolo": "Sl",
+                    "nombre_corto": "Ni esclavitud ni servidumbre",
+                    "pag": 25
+                },
+                {
+                    "id": 76,
+                    "num_articulo": 64,
+                    "num_inciso": 2,
+                    "simbolo": "Id",
+                    "nombre_corto": "Identidad",
+                    "pag": 25
+                },
+                {
+                    "id": 77,
+                    "num_articulo": 65,
+                    "num_inciso": 2,
+                    "simbolo": "Ii",
+                    "nombre_corto": "Identidad indígena",
+                    "pag": 26
+                },
+                {
+                    "id": 78,
+                    "num_articulo": 66,
+                    "num_inciso": 1,
+                    "simbolo": "Ci",
+                    "nombre_corto": "Consulta indígena",
+                    "pag": 26
+                },
+                {
+                    "id": 79,
+                    "num_articulo": 67,
+                    "num_inciso": 4,
+                    "simbolo": "Pz",
+                    "nombre_corto": "Libertad de pensamiento",
+                    "pag": 26
+                },
+                {
+                    "id": 80,
+                    "num_articulo": 68,
+                    "num_inciso": 4,
+                    "simbolo": "Mu",
+                    "nombre_corto": "Muerte digna",
+                    "pag": 26
+                },
+                {
+                    "id": 81,
+                    "num_articulo": 69,
+                    "num_inciso": 1,
+                    "simbolo": "La",
+                    "nombre_corto": "Libertad ambulatoria",
+                    "pag": 27
+                },
+                {
+                    "id": 82,
+                    "num_articulo": 70,
+                    "num_inciso": 3,
+                    "simbolo": "Sh",
+                    "nombre_corto": "Privacidad",
+                    "pag": 27
+                },
+                {
+                    "id": 83,
+                    "num_articulo": 71,
+                    "num_inciso": 2,
+                    "simbolo": "Rf",
+                    "nombre_corto": "Asilo y refugio",
+                    "pag": 27
+                },
+                {
+                    "id": 84,
+                    "num_articulo": 72,
+                    "num_inciso": 4,
+                    "simbolo": "So",
+                    "nombre_corto": "Derecho a asociarse",
+                    "pag": 27
+                },
+                {
+                    "id": 85,
+                    "num_articulo": 73,
+                    "num_inciso": 2,
+                    "simbolo": "Co",
+                    "nombre_corto": "Cooperativas",
+                    "pag": 27
+                },
+                {
+                    "id": 86,
+                    "num_articulo": 74,
+                    "num_inciso": 1,
+                    "simbolo": "Cq",
+                    "nombre_corto": "Colegios profesionales",
+                    "pag": 28
+                },
+                {
+                    "id": 87,
+                    "num_articulo": 75,
+                    "num_inciso": 2,
+                    "simbolo": "Re",
+                    "nombre_corto": "Derecho a reunión",
+                    "pag": 28
+                },
+                {
+                    "id": 88,
+                    "num_articulo": 76,
+                    "num_inciso": 2,
+                    "simbolo": "Pq",
+                    "nombre_corto": "Derecho a petición",
+                    "pag": 28
+                },
+                {
+                    "id": 89,
+                    "num_articulo": 77,
+                    "num_inciso": 2,
+                    "simbolo": "Ip",
+                    "nombre_corto": "Información pública",
+                    "pag": 28
+                },
+                {
+                    "id": 90,
+                    "num_articulo": 78,
+                    "num_inciso": 1,
+                    "simbolo": "Po",
+                    "nombre_corto": "Propiedad",
+                    "pag": 28
+                },
+                {
+                    "id": 91,
+                    "num_articulo": 79,
+                    "num_inciso": 4,
+                    "simbolo": "Wm",
+                    "nombre_corto": "Tierras y recursos indígenas",
+                    "pag": 29
+                },
+                {
+                    "id": 92,
+                    "num_articulo": 80,
+                    "num_inciso": 2,
+                    "simbolo": "Le",
+                    "nombre_corto": "Libertad de emprender",
+                    "pag": 29
+                },
+                {
+                    "id": 93,
+                    "num_articulo": 81,
+                    "num_inciso": 2,
+                    "simbolo": "Cn",
+                    "nombre_corto": "Derecho del consumidor(a)",
+                    "pag": 29
+                },
+                {
+                    "id": 94,
+                    "num_articulo": 82,
+                    "num_inciso": 2,
+                    "simbolo": "Xp",
+                    "nombre_corto": "Libertad de empresión",
+                    "pag": 30
+                },
+                {
+                    "id": 95,
+                    "num_articulo": 83,
+                    "num_inciso": 3,
+                    "simbolo": "If",
+                    "nombre_corto": "Libertad de expresión",
+                    "pag": 30
+                },
+                {
+                    "id": 96,
+                    "num_articulo": 84,
+                    "num_inciso": 1,
+                    "simbolo": "Mc",
+                    "nombre_corto": "Medios locales y comunitarios",
+                    "pag": 30
+                },
+                {
+                    "id": 97,
+                    "num_articulo": 85,
+                    "num_inciso": 2,
+                    "simbolo": "Md",
+                    "nombre_corto": "Medios públicos",
+                    "pag": 30
+                },
+                {
+                    "id": 98,
+                    "num_articulo": 86,
+                    "num_inciso": 7,
+                    "simbolo": "Cw",
+                    "nombre_corto": "Conectividad digital",
+                    "pag": 30
+                },
+                {
+                    "id": 99,
+                    "num_articulo": 87,
+                    "num_inciso": 7,
+                    "simbolo": "Db",
+                    "nombre_corto": "Proteción de datos personales",
+                    "pag": 30
+                },
+                {
+                    "id": 100,
+                    "num_articulo": 88,
+                    "num_inciso": 1,
+                    "simbolo": "Sw",
+                    "nombre_corto": "Seguridad informática",
+                    "pag": 31
+                },
+                {
+                    "id": 101,
+                    "num_articulo": 89,
+                    "num_inciso": 2,
+                    "simbolo": "Ws",
+                    "nombre_corto": "Internet libre de violencia",
+                    "pag": 31
+                },
+                {
+                    "id": 102,
+                    "num_articulo": 90,
+                    "num_inciso": 1,
+                    "simbolo": "Ew",
+                    "nombre_corto": "Educación digital",
+                    "pag": 32
+                },
+                {
+                    "id": 103,
+                    "num_articulo": 91,
+                    "num_inciso": 1,
+                    "simbolo": "O",
+                    "nombre_corto": "Ocio",
+                    "pag": 32
+                },
+                {
+                    "id": 104,
+                    "num_articulo": 92,
+                    "num_inciso": 6,
+                    "simbolo": "K",
+                    "nombre_corto": "Cultura",
+                    "pag": 14
+                },
+                {
+                    "id": 105,
+                    "num_articulo": 93,
+                    "num_inciso": 1,
+                    "simbolo": "Af",
+                    "nombre_corto": "Pueblo afrodescendiente",
+                    "pag": 33
+                },
+                {
+                    "id": 106,
+                    "num_articulo": 94,
+                    "num_inciso": 1,
+                    "simbolo": "Lc",
+                    "nombre_corto": "Libro y lectura",
+                    "pag": 33
+                },
+                {
+                    "id": 105,
+                    "num_articulo": 95,
+                    "num_inciso": 2,
+                    "simbolo": "Da",
+                    "nombre_corto": "Derechos de autor(a)",
+                    "pag": 33
+                },
+                {
+                    "id": 106,
+                    "num_articulo": 96,
+                    "num_inciso": 3,
+                    "simbolo": "Sc",
+                    "nombre_corto": "Sistemas de conocimiento",
+                    "pag": 33
+                },
+                {
+                    "id": 107,
+                    "num_articulo": 97,
+                    "num_inciso": 4,
+                    "simbolo": "Iv",
+                    "nombre_corto": "Investigación científica",
+                    "pag": 33
+                },
+                {
+                    "id": 108,
+                    "num_articulo": 98,
+                    "num_inciso": 1,
+                    "simbolo": "Be",
+                    "nombre_corto": "Bioética",
+                    "pag": 34
+                },
+                {
+                    "id": 109,
+                    "num_articulo": 99,
+                    "num_inciso": 2,
+                    "simbolo": "Kb",
+                    "nombre_corto": "Consejo Nacional de Bioética",
+                    "pag": 34
+                },
+                {
+                    "id": 110,
+                    "num_articulo": 100,
+                    "num_inciso": 1,
+                    "simbolo": "Il",
+                    "nombre_corto": "Derecho al propio idioma y lengua",
+                    "pag": 34
+                },
+                {
+                    "id": 111,
+                    "num_articulo": 101,
+                    "num_inciso": 1,
+                    "simbolo": "P",
+                    "nombre_corto": "Patrimonios",
+                    "pag": 34
+                },
+                {
+                    "id": 112,
+                    "num_articulo": 102,
+                    "num_inciso": 3,
+                    "simbolo": "Pi",
+                    "nombre_corto": "Patrimonio indígena",
+                    "pag": 35
+                },
+                {
+                    "id": 113,
+                    "num_articulo": 103,
+                    "num_inciso": 2,
+                    "simbolo": "Nt",
+                    "nombre_corto": "Derechos de la naturaleza",
+                    "pag": 35
+                },
+                {
+                    "id": 114,
+                    "num_articulo": 104,
+                    "num_inciso": 1,
+                    "simbolo": "Am",
+                    "nombre_corto": "Ambiente sano",
+                    "pag": 35
+                },
+                {
+                    "id": 115,
+                    "num_articulo": 105,
+                    "num_inciso": 1,
+                    "simbolo": "Ai",
+                    "nombre_corto": "Aire limpio",
+                    "pag": 35
+                },
+                {
+                    "id": 116,
+                    "num_articulo": 106,
+                    "num_inciso": 1,
+                    "simbolo": "Pa",
+                    "nombre_corto": "Protección al medio ambiente",
+                    "pag": 35
+                },
+                {
+                    "id": 117,
+                    "num_articulo": 107,
+                    "num_inciso": 2,
+                    "simbolo": "Nz",
+                    "nombre_corto": "Acceso a la naturaleza",
+                    "pag": 35
+                },
+                {
+                    "id": 118,
+                    "num_articulo": 108,
+                    "num_inciso": 8,
+                    "simbolo": "Ju",
+                    "nombre_corto": "Acceso a la justicia",
+                    "pag": 36
+                },
+                {
+                    "id": 119,
+                    "num_articulo": 109,
+                    "num_inciso": 9,
+                    "simbolo": "Pc",
+                    "nombre_corto": "Debido proceso",
+                    "pag": 36
+                },
+                {
+                    "id": 120,
+                    "num_articulo": 110,
+                    "num_inciso": 5,
+                    "simbolo": "Li",
+                    "nombre_corto": "Libertad individual",
+                    "pag": 37
+                },
+                {
+                    "id": 121,
+                    "num_articulo": 111,
+                    "num_inciso": 1,
+                    "simbolo": "Gp",
+                    "nombre_corto": "Garantías procesales",
+                    "pag": 37
+                },
+                {
+                    "id": 122,
+                    "num_articulo": 112,
+                    "num_inciso": 4,
+                    "simbolo": "Ly",
+                    "nombre_corto": "Principio de legalidad",
+                    "pag": 38
+                },
+                {
+                    "id": 123,
+                    "num_articulo": 113,
+                    "num_inciso": 2,
+                    "simbolo": "Aj",
+                    "nombre_corto": "Servicio integral de Acceso a la Justicia",
+                    "pag": 39
                 }
             ]
         }
@@ -50,10 +882,10 @@
     {
         "capitulo": {
             "nombre": "Sobre los derechos",
-            "color": "bg-pink-200",
+            "color": "bg-pink-500",
             "data": [
                 {
-                    "id": 6,
+                    "id": 16,
                     "num_articulo": 17,
                     "num_inciso": 2,
                     "simbolo": "D",
@@ -61,15 +893,15 @@
                     "pag": 9
                 },
                 {
-                    "id": 7,
+                    "id": 17,
                     "num_articulo": 18,
                     "num_inciso": 3,
                     "simbolo": "Tt",
-                    "nombre_corto": "Titulatidad de derechos",
+                    "nombre_corto": "Titularidad de derechos",
                     "pag": 9
                 },
                 {
-                    "id": 8,
+                    "id": 18,
                     "num_articulo": 19,
                     "num_inciso": 3,
                     "simbolo": "G",
@@ -77,7 +909,7 @@
                     "pag": 9
                 },
                 {
-                    "id": 9,
+                    "id": 19,
                     "num_articulo": 20,
                     "num_inciso": 2,
                     "simbolo": "Pg",
@@ -89,104 +921,128 @@
     },
     {
         "capitulo": {
-            "nombre": "Derechos fundamentales",
-            "color": "bg-blue-200",
+            "nombre": "Nacionalidad y ciudadanía",
+            "color": "bg-pink-300",
             "data": [
                 {
-                    "id": 10,
-                    "num_articulo": 21,
-                    "num_inciso": 2,
-                    "simbolo": "V",
-                    "nombre_corto": "Vida e integridad física",
-                    "pag": 9
-                },
-                {
-                    "id": 11,
-                    "num_articulo": 22,
-                    "num_inciso": 1,
-                    "simbolo": "Bu",
-                    "nombre_corto": "Derecho a ser biscado(a)",
-                    "pag": 10
-                },
-                {
-                    "id": 12,
-                    "num_articulo": 33,
-                    "num_inciso": 2,
-                    "simbolo": "Ms",
-                    "nombre_corto": "Personas mayores",
-                    "pag": 14
-                },
-                {
-                    "id": 13,
-                    "num_articulo": 34,
-                    "num_inciso": 1,
-                    "simbolo": "Ni",
-                    "nombre_corto": "Naciones indígenas",
-                    "pag": 14
-                },
-                {
-                    "id": 14,
-                    "num_articulo": 35,
-                    "num_inciso": 7,
-                    "simbolo": "Ed",
-                    "nombre_corto": "Educación",
-                    "pag": 14
-                },
-                {
-                    "id": 15,
-                    "num_articulo": 36,
-                    "num_inciso": 8,
-                    "simbolo": "Sn",
-                    "nombre_corto": "Sistema Nacional de Educación",
-                    "pag": 14
-                },
-                {
-                    "id": 16,
-                    "num_articulo": 37,
-                    "num_inciso": 6,
-                    "simbolo": "U",
-                    "nombre_corto": "Educación superior",
-                    "pag": 16
-                },
-                {
-                    "id": 17,
-                    "num_articulo": 38,
-                    "num_inciso": 1,
-                    "simbolo": "Ep",
-                    "nombre_corto": "Educación permanente",
-                    "pag": 16
-                },
-                {
-                    "id": 18,
-                    "num_articulo": 39,
-                    "num_inciso": 1,
-                    "simbolo": "Ea",
-                    "nombre_corto": "Educación ambiental",
-                    "pag": 17
-                },
-                {
-                    "id": 19,
-                    "num_articulo": 40,
-                    "num_inciso": 1,
-                    "simbolo": "Sx",
-                    "nombre_corto": "Educación sexual integral",
-                    "pag": 17
-                },
-                {
                     "id": 20,
-                    "num_articulo": 41,
-                    "num_inciso": 3,
-                    "simbolo": "Sñ",
-                    "nombre_corto": "Libertad de enseñanza",
-                    "pag": 17
+                    "num_articulo": 114,
+                    "num_inciso": 4,
+                    "simbolo": "N",
+                    "nombre_corto": "Nacionalidad",
+                    "pag": 39
                 },
                 {
                     "id": 21,
-                    "num_articulo": 41,
+                    "num_articulo": 115,
+                    "num_inciso": 2,
+                    "simbolo": "Na",
+                    "nombre_corto": "Derecho a la nacionalidad",
+                    "pag": 39
+                },
+                {
+                    "id": 22,
+                    "num_articulo": 116,
+                    "num_inciso": 2,
+                    "simbolo": "Nx",
+                    "nombre_corto": "Pérdida de nacionalidad",
+                    "pag": 40
+                },
+                {
+                    "id": 23,
+                    "num_articulo": 117,
                     "num_inciso": 3,
-                    "simbolo": "Sñ",
-                    "nombre_corto": "Libertad de enseñanza",
-                    "pag": 17
+                    "simbolo": "Ch",
+                    "nombre_corto": "Ciudadanía",
+                    "pag": 40
+                },
+                {
+                    "id": 24,
+                    "num_articulo": 118,
+                    "num_inciso": 3,
+                    "simbolo": "Ex",
+                    "nombre_corto": "Personas en el exterior",
+                    "pag": 40
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Acciones constitucionales",
+            "color": "bg-purple-300",
+            "data": [
+                {
+                    "id": 25,
+                    "num_articulo": 119,
+                    "num_inciso": 9,
+                    "simbolo": "Ax",
+                    "nombre_corto": "Acciones cautelares",
+                    "pag": 41
+                },
+                {
+                    "id": 26,
+                    "num_articulo": 120,
+                    "num_inciso": 3,
+                    "simbolo": "Di",
+                    "nombre_corto": "Deteción ilegal",
+                    "pag": 42
+                },
+                {
+                    "id": 27,
+                    "num_articulo": 121,
+                    "num_inciso": 2,
+                    "simbolo": "Cc",
+                    "nombre_corto": "Compensación por condena",
+                    "pag": 42
+                },
+                {
+                    "id": 28,
+                    "num_articulo": 122,
+                    "num_inciso": 2,
+                    "simbolo": "Fi",
+                    "nombre_corto": "Fallo justo",
+                    "pag": 42
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Defensoría del prueblo y de la Niñez",
+            "color": "bg-pink-200",
+            "data": [
+                {
+                    "id": 29,
+                    "num_articulo": 123,
+                    "num_inciso": 2,
+                    "simbolo": "Df",
+                    "nombre_corto": "Defensoría del Pueblo",
+                    "pag": 43
+                },
+                {
+                    "id": 30,
+                    "num_articulo": 124,
+                    "num_inciso": 3,
+                    "simbolo": "Df",
+                    "nombre_corto": "Atribuciones de la Defensoría del Pueblo",
+                    "pag": 43
+                },
+                {
+                    "id": 31,
+                    "num_articulo": 125,
+                    "num_inciso": 5,
+                    "simbolo": "Df",
+                    "nombre_corto": "Dirección de la Defensoría del Pueblo",
+                    "pag": 44
+                },
+                {
+                    "id": 32,
+                    "num_articulo": 126,
+                    "num_inciso": 2,
+                    "simbolo": "Dñ",
+                    "nombre_corto": "Defensoría de los Derechos de la Niñez",
+                    "pag": 44
                 }
             ]
         }

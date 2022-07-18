@@ -1,18 +1,17 @@
-import { useRouter } from "next/router"
-import Link from "next/link"
-import data from "../../data/articulos.json"
+import { useRouter } from 'next/router'
+import Link from 'next/link'
+import data from '../../data/articulos.json'
 
-export default function Articulo() {
+export default function Articulo () {
+  const router = useRouter()
+  const { id } = router.query
 
-    const router = useRouter()
-    const {id} = router.query
-
-    return (
+  return (
       <section className="flex-col mt-2 lg:-mt-8 w-full md:w-10/12 lg:w-1/2 lg:text-xl">
         <div className="tracking-wide">
           {
             data.map(articulo => {
-              if (articulo.id == id)
+              if (articulo.id === parseInt(id)) {
                 return (
                     <div className="w-full flex-col" key={articulo.id}>
                         <div className="text-xl lg:text-3xl font-bold text-center">
@@ -22,17 +21,19 @@ export default function Articulo() {
                           <ul className="list-decimal list-inside">
                             {
                               articulo.contenido.map(c => {
-                                return(
+                                return (
                                   <li className="mt-2" key={articulo.id}>
                                     {c}
                                   </li>
                                 )
-                            })
+                              })
                           }
                           </ul>
                         </div>
                     </div>
                 )
+              }
+              return null
             })
           }
         </div>
@@ -42,5 +43,5 @@ export default function Articulo() {
           </Link>
         </div>
       </section>
-    )
-  }
+  )
+}

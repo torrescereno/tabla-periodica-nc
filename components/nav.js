@@ -1,8 +1,4 @@
-import Link from "next/link"
-
-export default function Nav() {
-
-
+export default function Nav () {
   return (
     <>
       <section className="text-white">
