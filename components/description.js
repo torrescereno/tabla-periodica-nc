@@ -156,27 +156,27 @@ const indice = [
 export default function Description () {
   return (
         <>
-            <div className="flex-column p-5 m-5 lg:flex lg:justify-center lg:items-center">
-                <div className="lg:flex-col lg:justify-center lg:items-center">
-                  <div className="text-xl mb-3 pl-1 md:ml-12">
-                    <h1>Indice</h1>
-                  </div>
-                  <div className="md:grid md:grid-cols-2 md:gap-1 md:ml-12">
-                    {
-                        indice.map((i) => {
-                          return (
-                                <div key={i.titulo} className="flex mt-1">
-                                  <span className={`w-6 h-6 inline-block flex-none shadow-3xl rounded-full ${i.color} mr-5`}></span>
-                                  <Link key={i.titulo} href={`#${i.titulo}`} as={`#${i.titulo}`}>{i.titulo}</Link>
-                                </div>
-                          )
-                        })
-                    }
-                  </div>
-                </div>
-                <div className="mt-5 -mb-16 lg:mt-0 lg:-mb-0 items-center justify-center lg:w-1/3 relative">
-                  <Image alt="Como funciona" objectFit="cover" src={Logo} />
-                </div>
+            <div className="w-fulljustify-center items-center lg:-mt-10 lg:flex-col">
+              <section className="text-xl mb-5 pl-1 md:ml-12 lg:text-3xl">
+                <h1>Índice</h1>
+              </section>
+              <section className="md:grid md:grid-cols-2 md:gap-1 md:ml-12">
+                {
+                    indice.map((i) => {
+                      return (
+                            <section key={i.titulo} className="flex mt-1">
+                              <span className={`w-6 h-6 inline-block flex-none shadow-3xl rounded-full ${i.color} mr-5`}></span>
+                              <Link key={i.titulo} href={`#${i.titulo}`} as={`#${i.titulo}`}>{i.titulo}</Link>
+                            </section>
+                      )
+                    })
+                }
+              </section>
+            </div>
+            <div className="flex-col mt-5 items-center justify-center relative lg:w-1/2 lg:mt-10">
+              <section>
+                <Image alt="Como funciona" objectFit="cover" src={Logo}/>
+              </section>
             </div>
         </>
   )

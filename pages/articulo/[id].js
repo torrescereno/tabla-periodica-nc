@@ -7,7 +7,7 @@ export default function Articulo () {
   const { id } = router.query
 
   return (
-      <section className="flex-col mt-2 lg:-mt-8 w-full md:w-10/12 lg:w-1/2 lg:text-xl">
+      <section className="flex-col mt-2 lg:-mt-8 w-full md:w-10/12 lg:w-1/2 lg:text-xl xl:-mt-20">
         <div className="tracking-wide">
           {
             data.map(articulo => {

@@ -3,8 +3,8 @@ export default function Nav () {
     <>
       <section className="text-white">
         <section className="flex justify-center items-center bg-purple-900">
-          <div className="mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between text-center">
-            <div className="text-2xl md:text-4xl lg:text-6xl font-extrabold tracking-tigh">
+          <div className=" w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between text-cente">
+            <div className="w-full text-center text-2xl md:text-4xl lg:text-6xl font-extrabold tracking-tigh xl:flex xl:justify-center xl:items-center">
               <span className="block">Tabla periódica</span>
               <span className="block">de la nueva constitución</span>
             </div>

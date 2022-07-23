@@ -8,7 +8,7 @@ export default function Footer () {
                     </a>
                 </p>
                 <p className="mb-4 font-semibold text-center text-slate-900">
-                    Idea original de <a className="hover:underline" target="_blank" rel="noopener noreferrer" href="https://twitter.com/diegotherium">@diegotherium</a>
+                    Idea original de <a className="hover:underline" target="_blank" rel="noopener noreferrer" href="https://twitter.com/diegotherium">@diegotherium</a>. Desarollado por @torrescereno
                 </p>
             </div>
         </footer>
