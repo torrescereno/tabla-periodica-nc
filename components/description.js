@@ -1,6 +1,7 @@
 import Logo from '../public/images/como-funciona.png'
 import Link from 'next/link'
 import Image from 'next/image'
+import Title from './Title'
 
 const indice = [
   {
@@ -48,7 +49,7 @@ const indice = [
     color: 'bg-green-800'
   },
   {
-    titulo: 'Tipos de demoracia',
+    titulo: 'Tipos de democracia',
     color: 'bg-yellow-200'
   },
   {
@@ -156,10 +157,8 @@ const indice = [
 export default function Description () {
   return (
         <>
-            <div className="w-fulljustify-center items-center lg:-mt-10 lg:flex-col">
-              <section className="text-xl mb-5 pl-1 md:ml-12 lg:text-3xl">
-                <h1>Índice</h1>
-              </section>
+            <div className="w-fulljustify-center items-center text-center lg:-mt-20 lg:flex-col">
+              <Title title="Índice"/>
               <section className="md:grid md:grid-cols-2 md:gap-1 md:ml-12">
                 {
                     indice.map((i) => {
@@ -173,7 +172,8 @@ export default function Description () {
                 }
               </section>
             </div>
-            <div className="flex-col mt-5 items-center justify-center relative lg:w-1/2 lg:mt-10">
+            <div className="flex-col mt-5 items-center justify-center text-center relative md:w-10/12 lg:w-1/2 lg:mt-10">
+              <Title title="¿Cómo funciona?"/>
               <section>
                 <Image alt="Como funciona" objectFit="cover" src={Logo}/>
               </section>

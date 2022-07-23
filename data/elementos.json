@@ -69,6 +69,14 @@
                     "pag": 6
                 },
                 {
+                    "id": 0,
+                    "num_articulo": 7,
+                    "num_inciso": 1,
+                    "simbolo": "Dv",
+                    "nombre_corto": "Divisón admnisitrativa",
+                    "pag": 6
+                },
+                {
                     "id": 9,
                     "num_articulo": 7,
                     "num_inciso": 1,
@@ -123,6 +131,46 @@
                     "simbolo": "Su",
                     "nombre_corto": "Supremacía constitucional",
                     "pag": 8
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Sobre los derechos",
+            "color": "bg-pink-500",
+            "data": [
+                {
+                    "id": 16,
+                    "num_articulo": 17,
+                    "num_inciso": 2,
+                    "simbolo": "D",
+                    "nombre_corto": "Derechos fundamentales",
+                    "pag": 9
+                },
+                {
+                    "id": 17,
+                    "num_articulo": 18,
+                    "num_inciso": 3,
+                    "simbolo": "Tt",
+                    "nombre_corto": "Titularidad de derechos",
+                    "pag": 9
+                },
+                {
+                    "id": 18,
+                    "num_articulo": 19,
+                    "num_inciso": 3,
+                    "simbolo": "G",
+                    "nombre_corto": "Garantías",
+                    "pag": 9
+                },
+                {
+                    "id": 19,
+                    "num_articulo": 20,
+                    "num_inciso": 2,
+                    "simbolo": "Pg",
+                    "nombre_corto": "Progresividad",
+                    "pag": 9
                 }
             ]
         }
@@ -881,46 +929,6 @@
     },
     {
         "capitulo": {
-            "nombre": "Sobre los derechos",
-            "color": "bg-pink-500",
-            "data": [
-                {
-                    "id": 16,
-                    "num_articulo": 17,
-                    "num_inciso": 2,
-                    "simbolo": "D",
-                    "nombre_corto": "Derechos fundamentales",
-                    "pag": 9
-                },
-                {
-                    "id": 17,
-                    "num_articulo": 18,
-                    "num_inciso": 3,
-                    "simbolo": "Tt",
-                    "nombre_corto": "Titularidad de derechos",
-                    "pag": 9
-                },
-                {
-                    "id": 18,
-                    "num_articulo": 19,
-                    "num_inciso": 3,
-                    "simbolo": "G",
-                    "nombre_corto": "Garantías",
-                    "pag": 9
-                },
-                {
-                    "id": 19,
-                    "num_articulo": 20,
-                    "num_inciso": 2,
-                    "simbolo": "Pg",
-                    "nombre_corto": "Progresividad",
-                    "pag": 9
-                }
-            ]
-        }
-    },
-    {
-        "capitulo": {
             "nombre": "Nacionalidad y ciudadanía",
             "color": "bg-pink-300",
             "data": [
@@ -1043,6 +1051,2358 @@
                     "simbolo": "Dñ",
                     "nombre_corto": "Defensoría de los Derechos de la Niñez",
                     "pag": 44
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Derechos de la naturaleza",
+            "color": "bg-green-200",
+            "data": [
+                {
+                    "id": 127,
+                    "num_articulo": 127,
+                    "num_inciso": 2,
+                    "simbolo": "Np",
+                    "nombre_corto": "Protección de la naturaleza",
+                    "pag": 45
+                },
+                {
+                    "id": 128,
+                    "num_articulo": 128,
+                    "num_inciso": 2,
+                    "simbolo": "Nn",
+                    "nombre_corto": "Principio de la naturaleza",
+                    "pag": 45
+                },
+                {
+                    "id": 129,
+                    "num_articulo": 129,
+                    "num_inciso": 2,
+                    "simbolo": "Cl",
+                    "nombre_corto": "Crisis y acción climática",
+                    "pag": 45
+                },
+                {
+                    "id": 130,
+                    "num_articulo": 130,
+                    "num_inciso": 1,
+                    "simbolo": "Bd",
+                    "nombre_corto": "Biodiversidad",
+                    "pag": 45
+                },
+                {
+                    "id": 131,
+                    "num_articulo": 131,
+                    "num_inciso": 1,
+                    "simbolo": "Zo",
+                    "nombre_corto": "Derechos de los animales",
+                    "pag": 45
+                },
+                {
+                    "id": 132,
+                    "num_articulo": 132,
+                    "num_inciso": 1,
+                    "simbolo": "Ae",
+                    "nombre_corto": "Sistemas de Áreas Protegidas",
+                    "pag": 46
+                },
+                {
+                    "id": 133,
+                    "num_articulo": 133,
+                    "num_inciso": 1,
+                    "simbolo": "Rd",
+                    "nombre_corto": "Residuos",
+                    "pag": 46
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Bienes comunes naturales",
+            "color": "bg-green-500",
+            "data": [
+                {
+                    "id": 134,
+                    "num_articulo": 134,
+                    "num_inciso": 6,
+                    "simbolo": "B",
+                    "nombre_corto": "Bienes comunes naturales",
+                    "pag": 46
+                },
+                {
+                    "id": 135,
+                    "num_articulo": 135,
+                    "num_inciso": 2,
+                    "simbolo": "At",
+                    "nombre_corto": "Atmósfera y espacio",
+                    "pag": 47
+                },
+                {
+                    "id": 136,
+                    "num_articulo": 136,
+                    "num_inciso": 1,
+                    "simbolo": "Es",
+                    "nombre_corto": "Ecosistemas",
+                    "pag": 47
+                },
+                {
+                    "id": 137,
+                    "num_articulo": 137,
+                    "num_inciso": 1,
+                    "simbolo": "Gl",
+                    "nombre_corto": "Glaciares",
+                    "pag": 47
+                },
+                {
+                    "id": 138,
+                    "num_articulo": 138,
+                    "num_inciso": 1,
+                    "simbolo": "Fe",
+                    "nombre_corto": "Función ecológica y social de la tierra",
+                    "pag": 47
+                },
+                {
+                    "id": 139,
+                    "num_articulo": 139,
+                    "num_inciso": 3,
+                    "simbolo": "Ma",
+                    "nombre_corto": "Maritorio",
+                    "pag": 47
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Estatuto de las aguas",
+            "color": "bg-gray-300",
+            "data": [
+                {
+                    "id": 140,
+                    "num_articulo": 140,
+                    "num_inciso": 2,
+                    "simbolo": "A",
+                    "nombre_corto": "Agua",
+                    "pag": 48
+                },
+                {
+                    "id": 141,
+                    "num_articulo": 141,
+                    "num_inciso": 1,
+                    "simbolo": "Ga",
+                    "nombre_corto": "Géstión comunitaria de las aguas",
+                    "pag": 48
+                },
+                {
+                    "id": 142,
+                    "num_articulo": 142,
+                    "num_inciso": 1,
+                    "simbolo": "Ua",
+                    "nombre_corto": "Usos de las aguas",
+                    "pag": 48
+                },
+                {
+                    "id": 143,
+                    "num_articulo": 143,
+                    "num_inciso": 4,
+                    "simbolo": "Kc",
+                    "nombre_corto": "Consejo de cuencas",
+                    "pag": 48
+                },
+                {
+                    "id": 144,
+                    "num_articulo": 144,
+                    "num_inciso": 3,
+                    "simbolo": "Aa",
+                    "nombre_corto": "Agencia Nacional del Agua",
+                    "pag": 48
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Estatuto de los minerales",
+            "color": "bg-green-300",
+            "data": [
+                {
+                    "id": 145,
+                    "num_articulo": 145,
+                    "num_inciso": 2,
+                    "simbolo": "Mm",
+                    "nombre_corto": "Minas y minerales",
+                    "pag": 49
+                },
+                {
+                    "id": 146,
+                    "num_articulo": 146,
+                    "num_inciso": 1,
+                    "simbolo": "Mg",
+                    "nombre_corto": "Minería en glaciares",
+                    "pag": 50
+                },
+                {
+                    "id": 147,
+                    "num_articulo": 147,
+                    "num_inciso": 3,
+                    "simbolo": "Mi",
+                    "nombre_corto": "Actividad minera",
+                    "pag": 50
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Defensoría de la Naturaleza",
+            "color": "bg-green-800",
+            "data": [
+                {
+                    "id": 148,
+                    "num_articulo": 148,
+                    "num_inciso": 2,
+                    "simbolo": "Nr",
+                    "nombre_corto": "Defesoría de la Naturaleza",
+                    "pag": 49
+                },
+                {
+                    "id": 149,
+                    "num_articulo": 149,
+                    "num_inciso": 1,
+                    "simbolo": "Nr",
+                    "nombre_corto": "Atribuciones Def. de la Naturaleza",
+                    "pag": 50
+                },
+                {
+                    "id": 150,
+                    "num_articulo": 150,
+                    "num_inciso": 1,
+                    "simbolo": "Nr",
+                    "nombre_corto": "Dirección de la Def. de la Naturaleza",
+                    "pag": 51
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Tipos de democracia",
+            "color": "bg-yellow-200",
+            "data": [
+                {
+                    "id": 151,
+                    "num_articulo": 151,
+                    "num_inciso": 3,
+                    "simbolo": "De",
+                    "nombre_corto": "Democracia",
+                    "pag": 52
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Participación y representación",
+            "color": "bg-yellow-400",
+            "data": [
+                {
+                    "id": 152,
+                    "num_articulo": 152,
+                    "num_inciso": 3,
+                    "simbolo": "Pd",
+                    "nombre_corto": "Participación democrática",
+                    "pag": 52
+                },
+                {
+                    "id": 153,
+                    "num_articulo": 153,
+                    "num_inciso": 4,
+                    "simbolo": "Dd",
+                    "nombre_corto": "Democracia directa",
+                    "pag": 52
+                },
+                {
+                    "id": 154,
+                    "num_articulo": 154,
+                    "num_inciso": 2,
+                    "simbolo": "Dm",
+                    "nombre_corto": "Democracia ambiental",
+                    "pag": 53
+                },
+                {
+                    "id": 155,
+                    "num_articulo": 155,
+                    "num_inciso": 1,
+                    "simbolo": "Dr",
+                    "nombre_corto": "Democracia reginal y local",
+                    "pag": 53
+                },
+                {
+                    "id": 156,
+                    "num_articulo": 156,
+                    "num_inciso": 1,
+                    "simbolo": "Rr",
+                    "nombre_corto": "Referéndum regionales",
+                    "pag": 53
+                },
+                {
+                    "id": 157,
+                    "num_articulo": 157,
+                    "num_inciso": 3,
+                    "simbolo": "I",
+                    "nombre_corto": "Iniciativa popular de ley",
+                    "pag": 53
+                },
+                {
+                    "id": 158,
+                    "num_articulo": 158,
+                    "num_inciso": 2,
+                    "simbolo": "Dl",
+                    "nombre_corto": "Iniciativa de derogación de ley",
+                    "pag": 54
+                },
+                {
+                    "id": 159,
+                    "num_articulo": 159,
+                    "num_inciso": 1,
+                    "simbolo": "Au",
+                    "nombre_corto": "Audiencias públicas",
+                    "pag": 54
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Sufragio y sistema electoral",
+            "color": "bg-yellow-600",
+            "data": [
+                {
+                    "id": 160,
+                    "num_articulo": 160,
+                    "num_inciso": 6,
+                    "simbolo": "Sf",
+                    "nombre_corto": "Sufragio",
+                    "pag": 54
+                },
+                {
+                    "id": 161,
+                    "num_articulo": 161,
+                    "num_inciso": 2,
+                    "simbolo": "Sy",
+                    "nombre_corto": "Sistema y registro electoral",
+                    "pag": 55
+                },
+                {
+                    "id": 162,
+                    "num_articulo": 162,
+                    "num_inciso": 3,
+                    "simbolo": "Ei",
+                    "nombre_corto": "Escaños reservados indigenas",
+                    "pag": 55
+                },
+                {
+                    "id": 163,
+                    "num_articulo": 163,
+                    "num_inciso": 3,
+                    "simbolo": "Op",
+                    "nombre_corto": "Organizaciones y elecciones paritarias",
+                    "pag": 55
+                },
+                {
+                    "id": 164,
+                    "num_articulo": 164,
+                    "num_inciso": 5,
+                    "simbolo": "Sv",
+                    "nombre_corto": "Servicio Electoral",
+                    "pag": 56
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Buen gobierno y función pública",
+            "color": "bg-yellow-800",
+            "data": [
+                {
+                    "id": 165,
+                    "num_articulo": 165,
+                    "num_inciso": 2,
+                    "simbolo": "Fp",
+                    "nombre_corto": "Principios de la función pública",
+                    "pag": 57
+                },
+                {
+                    "id": 166,
+                    "num_articulo": 166,
+                    "num_inciso": 2,
+                    "simbolo": "Pb",
+                    "nombre_corto": "Probidad en la función pública",
+                    "pag": 57
+                },
+                {
+                    "id": 167,
+                    "num_articulo": 167,
+                    "num_inciso": 4,
+                    "simbolo": "Tp",
+                    "nombre_corto": "Trasparencia pública",
+                    "pag": 57
+                },
+                {
+                    "id": 168,
+                    "num_articulo": 168,
+                    "num_inciso": 1,
+                    "simbolo": "Rk",
+                    "nombre_corto": "Rendición de cuentas",
+                    "pag": 58
+                },
+                {
+                    "id": 169,
+                    "num_articulo": 169,
+                    "num_inciso": 2,
+                    "simbolo": "Kt",
+                    "nombre_corto": "Consejo para la Transparencia",
+                    "pag": 58
+                },
+                {
+                    "id": 170,
+                    "num_articulo": 170,
+                    "num_inciso": 3,
+                    "simbolo": "Cr",
+                    "nombre_corto": "Corrupción",
+                    "pag": 58
+                },
+                {
+                    "id": 171,
+                    "num_articulo": 171,
+                    "num_inciso": 1,
+                    "simbolo": "Im",
+                    "nombre_corto": "Inmunidad ante denuncias",
+                    "pag": 58
+                },
+                {
+                    "id": 172,
+                    "num_articulo": 172,
+                    "num_inciso": 1,
+                    "simbolo": "Io",
+                    "nombre_corto": "Imposibilidad de optar a cargos públicos",
+                    "pag": 58
+                },
+                {
+                    "id": 173,
+                    "num_articulo": 173,
+                    "num_inciso": 1,
+                    "simbolo": "Xa",
+                    "nombre_corto": "Exigencia y estándares a autoridades",
+                    "pag": 59
+                },
+                {
+                    "id": 174,
+                    "num_articulo": 174,
+                    "num_inciso": 1,
+                    "simbolo": "Rm",
+                    "nombre_corto": "Remuneraciones de autoridades",
+                    "pag": 59
+                },
+                {
+                    "id": 175,
+                    "num_articulo": 175,
+                    "num_inciso": 5,
+                    "simbolo": "Ad",
+                    "nombre_corto": "Admistración pública",
+                    "pag": 59
+                },
+                {
+                    "id": 176,
+                    "num_articulo": 176,
+                    "num_inciso": 2,
+                    "simbolo": "Se",
+                    "nombre_corto": "Servicios públicos",
+                    "pag": 59
+                },
+                {
+                    "id": 177,
+                    "num_articulo": 177,
+                    "num_inciso": 3,
+                    "simbolo": "Fu",
+                    "nombre_corto": "Funcionarios públicos",
+                    "pag": 60
+                },
+                {
+                    "id": 178,
+                    "num_articulo": 178,
+                    "num_inciso": 2,
+                    "simbolo": "Me",
+                    "nombre_corto": "Modernización del Estado",
+                    "pag": 60
+                },
+                {
+                    "id": 179,
+                    "num_articulo": 179,
+                    "num_inciso": 3,
+                    "simbolo": "Cv",
+                    "nombre_corto": "Servicio Civil",
+                    "pag": 60
+                },
+                {
+                    "id": 180,
+                    "num_articulo": 180,
+                    "num_inciso": 2,
+                    "simbolo": "Cv",
+                    "nombre_corto": "Dirección del Servicio Civil",
+                    "pag": 61
+                },
+                {
+                    "id": 181,
+                    "num_articulo": 181,
+                    "num_inciso": 3,
+                    "simbolo": "Bm",
+                    "nombre_corto": "Bomberos",
+                    "pag": 61
+                },
+                {
+                    "id": 182,
+                    "num_articulo": 182,
+                    "num_inciso": 5,
+                    "simbolo": "Ee",
+                    "nombre_corto": "EStado empresario",
+                    "pag": 61
+                },
+                {
+                    "id": 183,
+                    "num_articulo": 183,
+                    "num_inciso": 3,
+                    "simbolo": "Fs",
+                    "nombre_corto": "Reponsabilidad fiscal",
+                    "pag": 62
+                },
+                {
+                    "id": 184,
+                    "num_articulo": 184,
+                    "num_inciso": 2,
+                    "simbolo": "Do",
+                    "nombre_corto": "Desarrollo sostenible",
+                    "pag": 62
+                },
+                {
+                    "id": 185,
+                    "num_articulo": 185,
+                    "num_inciso": 6,
+                    "simbolo": "Tb",
+                    "nombre_corto": "Sistema tributario",
+                    "pag": 63
+                },
+                {
+                    "id": 186,
+                    "num_articulo": 186,
+                    "num_inciso": 1,
+                    "simbolo": "Pu",
+                    "nombre_corto": "Política portuaria",
+                    "pag": 63
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Organización territorial",
+            "color": "bg-green-100",
+            "data": [
+                {
+                    "id": 187,
+                    "num_articulo": 187,
+                    "num_inciso": 5,
+                    "simbolo": "Et",
+                    "nombre_corto": "Entidades territoriales autónomas",
+                    "pag": 64
+                },
+                {
+                    "id": 188,
+                    "num_articulo": 188,
+                    "num_inciso": 5,
+                    "simbolo": "Vt",
+                    "nombre_corto": "Viculación territorial",
+                    "pag": 64
+                },
+                {
+                    "id": 189,
+                    "num_articulo": 189,
+                    "num_inciso": 2,
+                    "simbolo": "It",
+                    "nombre_corto": "Igualdad territorial",
+                    "pag": 65
+                },
+                {
+                    "id": 190,
+                    "num_articulo": 190,
+                    "num_inciso": 1,
+                    "simbolo": "Dt",
+                    "nombre_corto": "Diversidad territorial",
+                    "pag": 64
+                },
+                {
+                    "id": 191,
+                    "num_articulo": 191,
+                    "num_inciso": 2,
+                    "simbolo": "Pt",
+                    "nombre_corto": "Participación en entidades territoriales",
+                    "pag": 65
+                },
+                {
+                    "id": 192,
+                    "num_articulo": 192,
+                    "num_inciso": 1,
+                    "simbolo": "Pt",
+                    "nombre_corto": "Participación en entidades territoriales II",
+                    "pag": 65
+                },
+                {
+                    "id": 193,
+                    "num_articulo": 193,
+                    "num_inciso": 2,
+                    "simbolo": "Qt",
+                    "nombre_corto": "Territorios sostenibles",
+                    "pag": 65
+                },
+                {
+                    "id": 194,
+                    "num_articulo": 194,
+                    "num_inciso": 1,
+                    "simbolo": "Tu",
+                    "nombre_corto": "No Tutela entre territorios",
+                    "pag": 66
+                },
+                {
+                    "id": 195,
+                    "num_articulo": 195,
+                    "num_inciso": 2,
+                    "simbolo": "Tf",
+                    "nombre_corto": "Trasferencia de competencias territoriales",
+                    "pag": 66
+                },
+                {
+                    "id": 196,
+                    "num_articulo": 196,
+                    "num_inciso": 2,
+                    "simbolo": "Tf",
+                    "nombre_corto": "Trasferencia de competencias territoriales II",
+                    "pag": 66
+                },
+                {
+                    "id": 197,
+                    "num_articulo": 197,
+                    "num_inciso": 4,
+                    "simbolo": "Tx",
+                    "nombre_corto": "Planificación del territorio",
+                    "pag": 66
+                },
+                {
+                    "id": 198,
+                    "num_articulo": 198,
+                    "num_inciso": 1,
+                    "simbolo": "Cx",
+                    "nombre_corto": "Conectividad territorial",
+                    "pag": 67
+                },
+                {
+                    "id": 199,
+                    "num_articulo": 199,
+                    "num_inciso": 1,
+                    "simbolo": "Zf",
+                    "nombre_corto": "Zonas fronterizas",
+                    "pag": 67
+                },
+                {
+                    "id": 200,
+                    "num_articulo": 200,
+                    "num_inciso": 1,
+                    "simbolo": "Vr",
+                    "nombre_corto": "Elecciones regionales",
+                    "pag": 67
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Comuna autónoma",
+            "color": "bg-green-600",
+            "data": [
+                {
+                    "id": 201,
+                    "num_articulo": 201,
+                    "num_inciso": 2,
+                    "simbolo": "Cm",
+                    "nombre_corto": "Comunas autónomas",
+                    "pag": 67
+                },
+                {
+                    "id": 202,
+                    "num_articulo": 202,
+                    "num_inciso": 1,
+                    "simbolo": "Cm",
+                    "nombre_corto": "Competencias de las comunas",
+                    "pag": 68
+                },
+                {
+                    "id": 203,
+                    "num_articulo": 203,
+                    "num_inciso": 2,
+                    "simbolo": "Cm",
+                    "nombre_corto": "Traspaso de competencias comunales",
+                    "pag": 69
+                },
+                {
+                    "id": 204,
+                    "num_articulo": 204,
+                    "num_inciso": 1,
+                    "simbolo": "Cm",
+                    "nombre_corto": "Delegación de facultades comunales",
+                    "pag": 69
+                },
+                {
+                    "id": 205,
+                    "num_articulo": 205,
+                    "num_inciso": 1,
+                    "simbolo": "Mn",
+                    "nombre_corto": "Municipalidad",
+                    "pag": 69
+                },
+                {
+                    "id": 206,
+                    "num_articulo": 206,
+                    "num_inciso": 2,
+                    "simbolo": "Ak",
+                    "nombre_corto": "Alcalde(sa)",
+                    "pag": 70
+                },
+                {
+                    "id": 207,
+                    "num_articulo": 207,
+                    "num_inciso": 5,
+                    "simbolo": "Cj",
+                    "nombre_corto": "Consejo municipal",
+                    "pag": 70
+                },
+                {
+                    "id": 208,
+                    "num_articulo": 208,
+                    "num_inciso": 1,
+                    "simbolo": "Ec",
+                    "nombre_corto": "Estatuto comunal",
+                    "pag": 70
+                },
+                {
+                    "id": 209,
+                    "num_articulo": 209,
+                    "num_inciso": 2,
+                    "simbolo": "Av",
+                    "nombre_corto": "Asamblea comunal",
+                    "pag": 70
+                },
+                {
+                    "id": 210,
+                    "num_articulo": 210,
+                    "num_inciso": 2,
+                    "simbolo": "Uv",
+                    "nombre_corto": "Unidades vecinales",
+                    "pag": 71
+                },
+                {
+                    "id": 211,
+                    "num_articulo": 211,
+                    "num_inciso": 2,
+                    "simbolo": "Ka",
+                    "nombre_corto": "Consejo de Alcaldes(as)",
+                    "pag": 71
+                },
+                {
+                    "id": 212,
+                    "num_articulo": 212,
+                    "num_inciso": 2,
+                    "simbolo": "Fm",
+                    "nombre_corto": "Financiamiento municipal",
+                    "pag": 71
+                },
+                {
+                    "id": 213,
+                    "num_articulo": 213,
+                    "num_inciso": 2,
+                    "simbolo": "As",
+                    "nombre_corto": "Asociación de comunas",
+                    "pag": 71
+                },
+                {
+                    "id": 214,
+                    "num_articulo": 214,
+                    "num_inciso": 1,
+                    "simbolo": "Ng",
+                    "nombre_corto": "Empresas comunales",
+                    "pag": 72
+                },
+                {
+                    "id": 215,
+                    "num_articulo": 215,
+                    "num_inciso": 2,
+                    "simbolo": "Fc",
+                    "nombre_corto": "Fusión y división de comunas",
+                    "pag": 72
+                },
+                {
+                    "id": 216,
+                    "num_articulo": 216,
+                    "num_inciso": 2,
+                    "simbolo": "Vc",
+                    "nombre_corto": "Participación polñitica comunal",
+                    "pag": 72
+                },
+                {
+                    "id": 217,
+                    "num_articulo": 217,
+                    "num_inciso": 1,
+                    "simbolo": "Up",
+                    "nombre_corto": "Unidad y personal comunales",
+                    "pag": 72
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Provincia",
+            "color": "bg-gray-600",
+            "data": [
+                {
+                    "id": 218,
+                    "num_articulo": 218,
+                    "num_inciso": 1,
+                    "simbolo": "Pv",
+                    "nombre_corto": "Provincia",
+                    "pag": 72
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Región autónoma",
+            "color": "bg-red-400",
+            "data": [
+                {
+                    "id": 219,
+                    "num_articulo": 219,
+                    "num_inciso": 1,
+                    "simbolo": "R",
+                    "nombre_corto": "Región autónoma",
+                    "pag": 73
+                },
+                {
+                    "id": 220,
+                    "num_articulo": 220,
+                    "num_inciso": 1,
+                    "simbolo": "R",
+                    "nombre_corto": "Competencias de la región autónoma",
+                    "pag": 73
+                },
+                {
+                    "id": 221,
+                    "num_articulo": 221,
+                    "num_inciso": 1,
+                    "simbolo": "R",
+                    "nombre_corto": "Traspaso de competencias regionales",
+                    "pag": 73
+                },
+                {
+                    "id": 222,
+                    "num_articulo": 222,
+                    "num_inciso": 2,
+                    "simbolo": "Or",
+                    "nombre_corto": "Organización regional",
+                    "pag": 74
+                },
+                {
+                    "id": 223,
+                    "num_articulo": 223,
+                    "num_inciso": 5,
+                    "simbolo": "Gr",
+                    "nombre_corto": "Gobierno regional",
+                    "pag": 75
+                },
+                {
+                    "id": 224,
+                    "num_articulo": 224,
+                    "num_inciso": 1,
+                    "simbolo": "Gr",
+                    "nombre_corto": "Atribuciones del gobierno regional",
+                    "pag": 75
+                },
+                {
+                    "id": 225,
+                    "num_articulo": 225,
+                    "num_inciso": 3,
+                    "simbolo": "Ar",
+                    "nombre_corto": "Asamblea regional",
+                    "pag": 76
+                },
+                {
+                    "id": 226,
+                    "num_articulo": 226,
+                    "num_inciso": 1,
+                    "simbolo": "Ar",
+                    "nombre_corto": "Atribuciones de la asamblea regional",
+                    "pag": 77
+                },
+                {
+                    "id": 227,
+                    "num_articulo": 227,
+                    "num_inciso": 2,
+                    "simbolo": "Er",
+                    "nombre_corto": "Estatuto regional",
+                    "pag": 78
+                },
+                {
+                    "id": 228,
+                    "num_articulo": 228,
+                    "num_inciso": 2,
+                    "simbolo": "Er",
+                    "nombre_corto": "Creación del estatuto regional",
+                    "pag": 78
+                },
+                {
+                    "id": 229,
+                    "num_articulo": 229,
+                    "num_inciso": 2,
+                    "simbolo": "Kr",
+                    "nombre_corto": "Consejo social regional",
+                    "pag": 78
+                },
+                {
+                    "id": 230,
+                    "num_articulo": 230,
+                    "num_inciso": 2,
+                    "simbolo": "Kg",
+                    "nombre_corto": "Consejo de Gobernaciones",
+                    "pag": 78
+                },
+                {
+                    "id": 231,
+                    "num_articulo": 231,
+                    "num_inciso": 2,
+                    "simbolo": "Ur",
+                    "nombre_corto": "Unidades y personal regionales",
+                    "pag": 79
+                },
+                {
+                    "id": 232,
+                    "num_articulo": 232,
+                    "num_inciso": 1,
+                    "simbolo": "Oc",
+                    "nombre_corto": "Organizaciones centralizados",
+                    "pag": 79
+                },
+                {
+                    "id": 233,
+                    "num_articulo": 233,
+                    "num_inciso": 5,
+                    "simbolo": "R",
+                    "nombre_corto": "Traspasos de competencias regionales II",
+                    "pag": 79
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Autonomías territoriales indígenas",
+            "color": "bg-red-500",
+            "data": [
+                {
+                    "id": 234,
+                    "num_articulo": 234,
+                    "num_inciso": 2,
+                    "simbolo": "Ty",
+                    "nombre_corto": "Autonomía territorial",
+                    "pag": 80
+                },
+                {
+                    "id": 235,
+                    "num_articulo": 235,
+                    "num_inciso": 1,
+                    "simbolo": "Ty",
+                    "nombre_corto": "Competencias de autonomía territoriales indigenas",
+                    "pag": 80
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Territorios especiales",
+            "color": "bg-gray-500",
+            "data": [
+                {
+                    "id": 236,
+                    "num_articulo": 236,
+                    "num_inciso": 3,
+                    "simbolo": "Te",
+                    "nombre_corto": "Territorios especiales",
+                    "pag": 80
+                },
+                {
+                    "id": 237,
+                    "num_articulo": 237,
+                    "num_inciso": 2,
+                    "simbolo": "Fd",
+                    "nombre_corto": "Fondo para Territorios Especiales",
+                    "pag": 80
+                },
+                {
+                    "id": 238,
+                    "num_articulo": 238,
+                    "num_inciso": 1,
+                    "simbolo": "Rn",
+                    "nombre_corto": "Rapa Nui",
+                    "pag": 81
+                },
+                {
+                    "id": 239,
+                    "num_articulo": 239,
+                    "num_inciso": 1,
+                    "simbolo": "Jf",
+                    "nombre_corto": "Archipiélago de Juan Fernández",
+                    "pag": 81
+                },
+                {
+                    "id": 240,
+                    "num_articulo": 240,
+                    "num_inciso": 1,
+                    "simbolo": "An",
+                    "nombre_corto": "Territorio Chileno Antártico",
+                    "pag": 81
+                },
+                {
+                    "id": 241,
+                    "num_articulo": 241,
+                    "num_inciso": 2,
+                    "simbolo": "Fd",
+                    "nombre_corto": "Fondo para Territorios Especiales",
+                    "pag": 80
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Ruralidad",
+            "color": "bg-indigo-300",
+            "data": [
+                {
+                    "id": 241,
+                    "num_articulo": 241,
+                    "num_inciso": 2,
+                    "simbolo": "Ru",
+                    "nombre_corto": "Ruralidad",
+                    "pag": 81
+                },
+                {
+                    "id": 242,
+                    "num_articulo": 242,
+                    "num_inciso": 1,
+                    "simbolo": "Ri",
+                    "nombre_corto": "Ruralidad e igualdad de género",
+                    "pag": 82
+                },
+                {
+                    "id": 243,
+                    "num_articulo": 243,
+                    "num_inciso": 1,
+                    "simbolo": "Mr",
+                    "nombre_corto": "Mercados y ferias rutales",
+                    "pag": 82
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Autonomía fiscal",
+            "color": "bg-indigo-500",
+            "data": [
+                {
+                    "id": 244,
+                    "num_articulo": 244,
+                    "num_inciso": 2,
+                    "simbolo": "Ft",
+                    "nombre_corto": "Fiananzas territoriales",
+                    "pag": 82
+                },
+                {
+                    "id": 245,
+                    "num_articulo": 245,
+                    "num_inciso": 3,
+                    "simbolo": "Fa",
+                    "nombre_corto": "Autonomía fiscal",
+                    "pag": 82
+                },
+                {
+                    "id": 246,
+                    "num_articulo": 246,
+                    "num_inciso": 2,
+                    "simbolo": "Fa",
+                    "nombre_corto": "Criterios de autonomía fiscal",
+                    "pag": 82
+                },
+                {
+                    "id": 247,
+                    "num_articulo": 247,
+                    "num_inciso": 1,
+                    "simbolo": "Ie",
+                    "nombre_corto": "Ingresos de entidades territoriales",
+                    "pag": 83
+                },
+                {
+                    "id": 248,
+                    "num_articulo": 248,
+                    "num_inciso": 3,
+                    "simbolo": "Ir",
+                    "nombre_corto": "Ingresos regionales",
+                    "pag": 83
+                },
+                {
+                    "id": 249,
+                    "num_articulo": 249,
+                    "num_inciso": 5,
+                    "simbolo": "Ef",
+                    "nombre_corto": "Equidad fiscal",
+                    "pag": 83
+                },
+                {
+                    "id": 250,
+                    "num_articulo": 250,
+                    "num_inciso": 1,
+                    "simbolo": "Du",
+                    "nombre_corto": "Deuda de entidades territoriales",
+                    "pag": 84
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Poder legislativo",
+            "color": "bg-blue-500",
+            "data": [
+                {
+                    "id": 251,
+                    "num_articulo": 251,
+                    "num_inciso": 1,
+                    "simbolo": "Ls",
+                    "nombre_corto": "Poder legislativo",
+                    "pag": 85
+                },
+                {
+                    "id": 252,
+                    "num_articulo": 252,
+                    "num_inciso": 3,
+                    "simbolo": "C",
+                    "nombre_corto": "Congreso de Diputadas y Diputados",
+                    "pag": 85
+                },
+                {
+                    "id": 253,
+                    "num_articulo": 253,
+                    "num_inciso": 1,
+                    "simbolo": "C",
+                    "nombre_corto": "Atribuciones del Congreso",
+                    "pag": 85
+                },
+                {
+                    "id": 254,
+                    "num_articulo": 254,
+                    "num_inciso": 5,
+                    "simbolo": "Ca",
+                    "nombre_corto": "Cámara de las Regiones",
+                    "pag": 87
+                },
+                {
+                    "id": 255,
+                    "num_articulo": 255,
+                    "num_inciso": 5,
+                    "simbolo": "Ca",
+                    "nombre_corto": "Atribuciones de la Cámara de las Regiones",
+                    "pag": 88
+                },
+                {
+                    "id": 256,
+                    "num_articulo": 256,
+                    "num_inciso": 2,
+                    "simbolo": "Lv",
+                    "nombre_corto": "Disposiciones comunes al legislativo",
+                    "pag": 88
+                },
+                {
+                    "id": 257,
+                    "num_articulo": 257,
+                    "num_inciso": 2,
+                    "simbolo": "Rl",
+                    "nombre_corto": "Requisitos para ser legislador(a)",
+                    "pag": 89
+                },
+                {
+                    "id": 258,
+                    "num_articulo": 258,
+                    "num_inciso": 2,
+                    "simbolo": "Ll",
+                    "nombre_corto": "Limitaciones para ser legislador(a)",
+                    "pag": 89
+                },
+                {
+                    "id": 259,
+                    "num_articulo": 259,
+                    "num_inciso": 2,
+                    "simbolo": "Ic",
+                    "nombre_corto": "Incompativilidad entre cargos legislativos",
+                    "pag": 90
+                },
+                {
+                    "id": 260,
+                    "num_articulo": 260,
+                    "num_inciso": 4,
+                    "simbolo": "In",
+                    "nombre_corto": "Inmunidad parlamentaria",
+                    "pag": 90
+                },
+                {
+                    "id": 261,
+                    "num_articulo": 261,
+                    "num_inciso": 3,
+                    "simbolo": "Ck",
+                    "nombre_corto": "Cesación en el cargo de legislador(a)",
+                    "pag": 90
+                },
+                {
+                    "id": 262,
+                    "num_articulo": 263,
+                    "num_inciso": 1,
+                    "simbolo": "Rv",
+                    "nombre_corto": "Renovación del Congreso y Cámara",
+                    "pag": 91
+                },
+                {
+                    "id": 263,
+                    "num_articulo": 263,
+                    "num_inciso": 1,
+                    "simbolo": "Sz",
+                    "nombre_corto": "Sesiones conjuntas del poder legislativo",
+                    "pag": 85
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Proceso de creación de leyes",
+            "color": "bg-blue-900",
+            "data": [
+                {
+                    "id": 264,
+                    "num_articulo": 264,
+                    "num_inciso": 1,
+                    "simbolo": "Lx",
+                    "nombre_corto": "Asuntos que deben ser leyes",
+                    "pag": 92
+                },
+                {
+                    "id": 265,
+                    "num_articulo": 265,
+                    "num_inciso": 7,
+                    "simbolo": "Dq",
+                    "nombre_corto": "Decretos con fuerza de ley",
+                    "pag": 93
+                },
+                {
+                    "id": 266,
+                    "num_articulo": 266,
+                    "num_inciso": 1,
+                    "simbolo": "Lp",
+                    "nombre_corto": "Leyes de concurrencia presidencial",
+                    "pag": 94
+                },
+                {
+                    "id": 267,
+                    "num_articulo": 267,
+                    "num_inciso": 5,
+                    "simbolo": "Mo",
+                    "nombre_corto": "Mociones de concurrencia presidencial",
+                    "pag": 94
+                },
+                {
+                    "id": 268,
+                    "num_articulo": 268,
+                    "num_inciso": 2,
+                    "simbolo": "Lr",
+                    "nombre_corto": "Leyes de acuerdo regional",
+                    "pag": 95
+                },
+                {
+                    "id": 269,
+                    "num_articulo": 269,
+                    "num_inciso": 5,
+                    "simbolo": "Py",
+                    "nombre_corto": "Prsentación de proyectos de ley",
+                    "pag": 96
+                },
+                {
+                    "id": 270,
+                    "num_articulo": 270,
+                    "num_inciso": 3,
+                    "simbolo": "Tm",
+                    "nombre_corto": "Tramitación de leyes comunes",
+                    "pag": 97
+                },
+                {
+                    "id": 271,
+                    "num_articulo": 271,
+                    "num_inciso": 1,
+                    "simbolo": "Qm",
+                    "nombre_corto": "Leyes de mayoría de diputados(as) en ejercicio",
+                    "pag": 97
+                },
+                {
+                    "id": 272,
+                    "num_articulo": 272,
+                    "num_inciso": 3,
+                    "simbolo": "Tl",
+                    "nombre_corto": "Tramitación de leyes de acuerdo regional",
+                    "pag": 97
+                },
+                {
+                    "id": 273,
+                    "num_articulo": 273,
+                    "num_inciso": 2,
+                    "simbolo": "Rq",
+                    "nombre_corto": "requerimientos de la Cámara de conocer proyectos de ley",
+                    "pag": 98
+                },
+                {
+                    "id": 274,
+                    "num_articulo": 274,
+                    "num_inciso": 6,
+                    "simbolo": "Pm",
+                    "nombre_corto": "Promulgación oo devolución de leyes",
+                    "pag": 98
+                },
+                {
+                    "id": 275,
+                    "num_articulo": 275,
+                    "num_inciso": 3,
+                    "simbolo": "Ug",
+                    "nombre_corto": "Urgencias para proyectos de ley",
+                    "pag": 98
+                },
+                {
+                    "id": 276,
+                    "num_articulo": 276,
+                    "num_inciso": 5,
+                    "simbolo": "Az",
+                    "nombre_corto": "Propuestas de las asambleas regionales",
+                    "pag": 99
+                },
+                {
+                    "id": 277,
+                    "num_articulo": 277,
+                    "num_inciso": 8,
+                    "simbolo": "Ld",
+                    "nombre_corto": "Tramitación de ley de Presupuesto",
+                    "pag": 99
+                },
+                {
+                    "id": 278,
+                    "num_articulo": 278,
+                    "num_inciso": 3,
+                    "simbolo": "Ut",
+                    "nombre_corto": "Unidades técnicas del Congreso",
+                    "pag": 100
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Poder ejecutivo",
+            "color": "bg-purple-700",
+            "data": [
+                {
+                    "id": 279,
+                    "num_articulo": 279,
+                    "num_inciso": 2,
+                    "simbolo": "Go",
+                    "nombre_corto": "Gobierno y presidencia",
+                    "pag": 101
+                },
+                {
+                    "id": 280,
+                    "num_articulo": 280,
+                    "num_inciso": 3,
+                    "simbolo": "Rp",
+                    "nombre_corto": "Requisitos para ser Presidente(a)",
+                    "pag": 101
+                },
+                {
+                    "id": 281,
+                    "num_articulo": 281,
+                    "num_inciso": 4,
+                    "simbolo": "Eg",
+                    "nombre_corto": "Elección de Presidente(a)",
+                    "pag": 101
+                },
+                {
+                    "id": 282,
+                    "num_articulo": 282,
+                    "num_inciso": 4,
+                    "simbolo": "Pp",
+                    "nombre_corto": "Proclamación del Presidente(a)",
+                    "pag": 102
+                },
+                {
+                    "id": 283,
+                    "num_articulo": 283,
+                    "num_inciso": 2,
+                    "simbolo": "Ia",
+                    "nombre_corto": "Impedimento para asumir la Presidencia",
+                    "pag": 102
+                },
+                {
+                    "id": 284,
+                    "num_articulo": 284,
+                    "num_inciso": 2,
+                    "simbolo": "Dg",
+                    "nombre_corto": "Duración del mandato presidencial",
+                    "pag": 102
+                },
+                {
+                    "id": 285,
+                    "num_articulo": 285,
+                    "num_inciso": 1,
+                    "simbolo": "vp",
+                    "nombre_corto": "Subrogancia del Vicepresidente(a)",
+                    "pag": 103
+                },
+                {
+                    "id": 286,
+                    "num_articulo": 286,
+                    "num_inciso": 5,
+                    "simbolo": "Vd",
+                    "nombre_corto": "Vacancia definitiva del Presidente(a)",
+                    "pag": 103
+                },
+                {
+                    "id": 287,
+                    "num_articulo": 287,
+                    "num_inciso": 1,
+                    "simbolo": "Gb",
+                    "nombre_corto": "Atribuciones del Presidente(a)",
+                    "pag": 104
+                },
+                {
+                    "id": 288,
+                    "num_articulo": 288,
+                    "num_inciso": 3,
+                    "simbolo": "Bg",
+                    "nombre_corto": "Potestades regimentarias del Presidente(a)",
+                    "pag": 105
+                },
+                {
+                    "id": 289,
+                    "num_articulo": 289,
+                    "num_inciso": 13,
+                    "simbolo": "Rt",
+                    "nombre_corto": "Ratificación de tratados internacionales",
+                    "pag": 105
+                },
+                {
+                    "id": 290,
+                    "num_articulo": 290,
+                    "num_inciso": 4,
+                    "simbolo": "M",
+                    "nombre_corto": "Ministras y ministros de Estado",
+                    "pag": 107
+                },
+                {
+                    "id": 291,
+                    "num_articulo": 291,
+                    "num_inciso": 2,
+                    "simbolo": "Mq",
+                    "nombre_corto": "Requisitos para ser ministro(a)",
+                    "pag": 107
+                },
+                {
+                    "id": 292,
+                    "num_articulo": 292,
+                    "num_inciso": 2,
+                    "simbolo": "Rg",
+                    "nombre_corto": "Reglamentos y dcretos con firma ministral",
+                    "pag": 107
+                },
+                {
+                    "id": 293,
+                    "num_articulo": 293,
+                    "num_inciso": 2,
+                    "simbolo": "Mx",
+                    "nombre_corto": "Asistencia de ministros(as) al Congreso",
+                    "pag": 107
+                },
+                {
+                    "id": 294,
+                    "num_articulo": 294,
+                    "num_inciso": 1,
+                    "simbolo": "Xm",
+                    "nombre_corto": "Representantes ministeriales en regiones",
+                    "pag": 108
+                },
+                {
+                    "id": 295,
+                    "num_articulo": 295,
+                    "num_inciso": 3,
+                    "simbolo": "Uf",
+                    "nombre_corto": "Uso legítimo de la fuerza",
+                    "pag": 108
+                },
+                {
+                    "id": 296,
+                    "num_articulo": 296,
+                    "num_inciso": 2,
+                    "simbolo": "Sp",
+                    "nombre_corto": "Seguridad pública",
+                    "pag": 108
+                },
+                {
+                    "id": 297,
+                    "num_articulo": 297,
+                    "num_inciso": 5,
+                    "simbolo": "Pk",
+                    "nombre_corto": "Plicías",
+                    "pag": 108
+                },
+                {
+                    "id": 298,
+                    "num_articulo": 298,
+                    "num_inciso": 2,
+                    "simbolo": "Ml",
+                    "nombre_corto": "Defensa Nacional",
+                    "pag": 109
+                },
+                {
+                    "id": 299,
+                    "num_articulo": 299,
+                    "num_inciso": 6,
+                    "simbolo": "Fz",
+                    "nombre_corto": "Fuerzas Armadas",
+                    "pag": 109
+                },
+                {
+                    "id": 300,
+                    "num_articulo": 300,
+                    "num_inciso": 2,
+                    "simbolo": "Xe",
+                    "nombre_corto": "Estados de excepción",
+                    "pag": 110
+                },
+                {
+                    "id": 301,
+                    "num_articulo": 301,
+                    "num_inciso": 7,
+                    "simbolo": "St",
+                    "nombre_corto": "Estado de sitio y asamblea",
+                    "pag": 110
+                },
+                {
+                    "id": 302,
+                    "num_articulo": 302,
+                    "num_inciso": 5,
+                    "simbolo": "Ct",
+                    "nombre_corto": "Estado de catástofre",
+                    "pag": 111
+                },
+                {
+                    "id": 303,
+                    "num_articulo": 303,
+                    "num_inciso": 5,
+                    "simbolo": "Dx",
+                    "nombre_corto": "Declaración de estado de excepción",
+                    "pag": 112
+                },
+                {
+                    "id": 304,
+                    "num_articulo": 304,
+                    "num_inciso": 2,
+                    "simbolo": "Rx",
+                    "nombre_corto": "regulación del estado de excepción",
+                    "pag": 112
+                },
+                {
+                    "id": 305,
+                    "num_articulo": 305,
+                    "num_inciso": 2,
+                    "simbolo": "Fx",
+                    "nombre_corto": "Fiscalización del estado de excepción",
+                    "pag": 113
+                },
+                {
+                    "id": 306,
+                    "num_articulo": 306,
+                    "num_inciso": 1,
+                    "simbolo": "Fx",
+                    "nombre_corto": "Revisión de medidas del estado de excepción",
+                    "pag": 113
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Sistema de justicia",
+            "color": "bg-yellow-700",
+            "data": [
+                {
+                    "id": 307,
+                    "num_articulo": 307,
+                    "num_inciso": 3,
+                    "simbolo": "J",
+                    "nombre_corto": "La jurisdicción",
+                    "pag": 114
+                },
+                {
+                    "id": 308,
+                    "num_articulo": 308,
+                    "num_inciso": 1,
+                    "simbolo": "Tj",
+                    "nombre_corto": "Tribunales de justicia",
+                    "pag": 114
+                },
+                {
+                    "id": 309,
+                    "num_articulo": 309,
+                    "num_inciso": 2,
+                    "simbolo": "Ji",
+                    "nombre_corto": "Sistemas de justicia indigenes",
+                    "pag": 114
+                },
+                {
+                    "id": 310,
+                    "num_articulo": 310,
+                    "num_inciso": 5,
+                    "simbolo": "Iu",
+                    "nombre_corto": "Independencia de la función jurisdiccional",
+                    "pag": 114
+                },
+                {
+                    "id": 311,
+                    "num_articulo": 311,
+                    "num_inciso": 2,
+                    "simbolo": "Fj",
+                    "nombre_corto": "Principios de la función jurisdiccional",
+                    "pag": 115
+                },
+                {
+                    "id": 312,
+                    "num_articulo": 312,
+                    "num_inciso": 4,
+                    "simbolo": "Fj",
+                    "nombre_corto": "Principios de la función jurisdiccional II",
+                    "pag": 115
+                },
+                {
+                    "id": 313,
+                    "num_articulo": 313,
+                    "num_inciso": 1,
+                    "simbolo": "Lj",
+                    "nombre_corto": "Libertad de juezas y jueces",
+                    "pag": 115
+                },
+                {
+                    "id": 314,
+                    "num_articulo": 314,
+                    "num_inciso": 1,
+                    "simbolo": "Ij",
+                    "nombre_corto": "Inamovilidad de jueazas y jueces",
+                    "pag": 116
+                },
+                {
+                    "id": 315,
+                    "num_articulo": 315,
+                    "num_inciso": 1,
+                    "simbolo": "Rj",
+                    "nombre_corto": "Responsabilidad de jueazas y jueces",
+                    "pag": 116
+                },
+                {
+                    "id": 316,
+                    "num_articulo": 316,
+                    "num_inciso": 1,
+                    "simbolo": "Dj",
+                    "nombre_corto": "Duración de jueazas y jueces",
+                    "pag": 116
+                },
+                {
+                    "id": 317,
+                    "num_articulo": 317,
+                    "num_inciso": 2,
+                    "simbolo": "Ix",
+                    "nombre_corto": "Inexcusabilidad de tribunales",
+                    "pag": 116
+                },
+                {
+                    "id": 318,
+                    "num_articulo": 318,
+                    "num_inciso": 2,
+                    "simbolo": "Ot",
+                    "nombre_corto": "Obligaciones y facultades de tribunales",
+                    "pag": 116
+                },
+                {
+                    "id": 319,
+                    "num_articulo": 319,
+                    "num_inciso": 2,
+                    "simbolo": "Ts",
+                    "nombre_corto": "Transparencia de las sentencias",
+                    "pag": 116
+                },
+                {
+                    "id": 320,
+                    "num_articulo": 320,
+                    "num_inciso": 2,
+                    "simbolo": "Gf",
+                    "nombre_corto": "Gratuidad y coluntariedad de la función jurisdiccional",
+                    "pag": 117
+                },
+                {
+                    "id": 321,
+                    "num_articulo": 321,
+                    "num_inciso": 1,
+                    "simbolo": "Ja",
+                    "nombre_corto": "Justicia abierta",
+                    "pag": 117
+                },
+                {
+                    "id": 322,
+                    "num_articulo": 322,
+                    "num_inciso": 2,
+                    "simbolo": "Jp",
+                    "nombre_corto": "Justicia plurinacional e intercultural",
+                    "pag": 117
+                },
+                {
+                    "id": 323,
+                    "num_articulo": 323,
+                    "num_inciso": 2,
+                    "simbolo": "Cf",
+                    "nombre_corto": "Resolución de conflictos",
+                    "pag": 117
+                },
+                {
+                    "id": 324,
+                    "num_articulo": 324,
+                    "num_inciso": 3,
+                    "simbolo": "Jj",
+                    "nombre_corto": "Juezas y jueces",
+                    "pag": 117
+                },
+                {
+                    "id": 325,
+                    "num_articulo": 325,
+                    "num_inciso": 1,
+                    "simbolo": "Pj",
+                    "nombre_corto": "Presupuesto del Sistema Nacional de Justicia",
+                    "pag": 118
+                },
+                {
+                    "id": 326,
+                    "num_articulo": 326,
+                    "num_inciso": 1,
+                    "simbolo": "Px",
+                    "nombre_corto": "Proximidad e itinerancia de tribunales",
+                    "pag": 118
+                },
+                {
+                    "id": 327,
+                    "num_articulo": 327,
+                    "num_inciso": 1,
+                    "simbolo": "Sj",
+                    "nombre_corto": "Siste,a Nacional de Justicia",
+                    "pag": 118
+                },
+                {
+                    "id": 328,
+                    "num_articulo": 328,
+                    "num_inciso": 4,
+                    "simbolo": "Cs",
+                    "nombre_corto": "Corte Suprema",
+                    "pag": 118
+                },
+                {
+                    "id": 329,
+                    "num_articulo": 329,
+                    "num_inciso": 1,
+                    "simbolo": "Cs",
+                    "nombre_corto": "Supremacía de la Corte Suprema",
+                    "pag": 118
+                },
+                {
+                    "id": 330,
+                    "num_articulo": 330,
+                    "num_inciso": 3,
+                    "simbolo": "Ap",
+                    "nombre_corto": "Cortes de apelaciones",
+                    "pag": 118
+                },
+                {
+                    "id": 331,
+                    "num_articulo": 331,
+                    "num_inciso": 2,
+                    "simbolo": "Ti",
+                    "nombre_corto": "Tribunales de instacia",
+                    "pag": 119
+                },
+                {
+                    "id": 332,
+                    "num_articulo": 332,
+                    "num_inciso": 4,
+                    "simbolo": "Ta",
+                    "nombre_corto": "Tribunales administrativos",
+                    "pag": 119
+                },
+                {
+                    "id": 333,
+                    "num_articulo": 333,
+                    "num_inciso": 4,
+                    "simbolo": "tn",
+                    "nombre_corto": "Tribunales ambientales",
+                    "pag": 119
+                },
+                {
+                    "id": 334,
+                    "num_articulo": 334,
+                    "num_inciso": 2,
+                    "simbolo": "Jv",
+                    "nombre_corto": "Justicia Vecinal",
+                    "pag": 120
+                },
+                {
+                    "id": 335,
+                    "num_articulo": 335,
+                    "num_inciso": 3,
+                    "simbolo": "Jv",
+                    "nombre_corto": "Centros de Justicia Vecinal",
+                    "pag": 120
+                },
+                {
+                    "id": 336,
+                    "num_articulo": 336,
+                    "num_inciso": 2,
+                    "simbolo": "Ej",
+                    "nombre_corto": "Ejecución de penas",
+                    "pag": 120
+                },
+                {
+                    "id": 337,
+                    "num_articulo": 337,
+                    "num_inciso": 2,
+                    "simbolo": "Cp",
+                    "nombre_corto": "Cumplimiento de penas",
+                    "pag": 120
+                },
+                {
+                    "id": 338,
+                    "num_articulo": 338,
+                    "num_inciso": 2,
+                    "simbolo": "Cp",
+                    "nombre_corto": "Cumplimiento de penas II",
+                    "pag": 120
+                },
+                {
+                    "id": 339,
+                    "num_articulo": 339,
+                    "num_inciso": 7,
+                    "simbolo": "Tc",
+                    "nombre_corto": "Tribunal Calificador de Elecciones ",
+                    "pag": 121
+                },
+                {
+                    "id": 340,
+                    "num_articulo": 340,
+                    "num_inciso": 6,
+                    "simbolo": "Tc",
+                    "nombre_corto": "Tribunales electorales regionales",
+                    "pag": 121
+                },
+                {
+                    "id": 341,
+                    "num_articulo": 341,
+                    "num_inciso": 1,
+                    "simbolo": "Tc",
+                    "nombre_corto": "Gestión de tribunales electorales",
+                    "pag": 122
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Consejo de la justicia",
+            "color": "bg-yellow-300",
+            "data": [
+                {
+                    "id": 342,
+                    "num_articulo": 342,
+                    "num_inciso": 2,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Consejo de justicia",
+                    "pag": 122
+                },
+                {
+                    "id": 343,
+                    "num_articulo": 343,
+                    "num_inciso": 1,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Atribuciones del Consejo de la Justicia",
+                    "pag": 123
+                },
+                {
+                    "id": 344,
+                    "num_articulo": 344,
+                    "num_inciso": 3,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Composición del Consejo de la Justicia",
+                    "pag": 124
+                },
+                {
+                    "id": 345,
+                    "num_articulo": 345,
+                    "num_inciso": 2,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Procedimientos del Consejo de la Justicia",
+                    "pag": 124
+                },
+                {
+                    "id": 346,
+                    "num_articulo": 346,
+                    "num_inciso": 3,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Incompatibilidad de miembros del Consejo de la Justicia",
+                    "pag": 124
+                },
+                {
+                    "id": 347,
+                    "num_articulo": 347,
+                    "num_inciso": 3,
+                    "simbolo": "Jt",
+                    "nombre_corto": "Cesación del cargo en el Consejo de la Justicia",
+                    "pag": 125
+                },
+                {
+                    "id": 348,
+                    "num_articulo": 348,
+                    "num_inciso": 2,
+                    "simbolo": "Nj",
+                    "nombre_corto": "Nombramiento de juezas y jueces",
+                    "pag": 125
+                },
+                {
+                    "id": 349,
+                    "num_articulo": 349,
+                    "num_inciso": 3,
+                    "simbolo": "Ro",
+                    "nombre_corto": "Resoluciones disciplinarias del Consejo de la Justicia",
+                    "pag": 125
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Órganos autónomos constitucionales",
+            "color": "bg-red-800",
+            "data": [
+                {
+                    "id": 350,
+                    "num_articulo": 350,
+                    "num_inciso": 1,
+                    "simbolo": "Oa",
+                    "nombre_corto": "Órganos autónomos constitucionales",
+                    "pag": 126
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Contraloría General de la República",
+            "color": "bg-red-300",
+            "data": [
+                {
+                    "id": 351,
+                    "num_articulo": 351,
+                    "num_inciso": 4,
+                    "simbolo": "Cg",
+                    "nombre_corto": "Contraloría General de la República",
+                    "pag": 126
+                },
+                {
+                    "id": 352,
+                    "num_articulo": 352,
+                    "num_inciso": 5,
+                    "simbolo": "Cg",
+                    "nombre_corto": "Atribuviones de la Contraloría General de la República",
+                    "pag": 126
+                },
+                {
+                    "id": 353,
+                    "num_articulo": 353,
+                    "num_inciso": 4,
+                    "simbolo": "Cg",
+                    "nombre_corto": "Dirección de la Contraloría General de la República",
+                    "pag": 127
+                },
+                {
+                    "id": 354,
+                    "num_articulo": 354,
+                    "num_inciso": 2,
+                    "simbolo": "Cg",
+                    "nombre_corto": "Dictámentes de la Contraloría General de la República",
+                    "pag": 127
+                },
+                {
+                    "id": 355,
+                    "num_articulo": 355,
+                    "num_inciso": 5,
+                    "simbolo": "Cg",
+                    "nombre_corto": "Contralorías regionales",
+                    "pag": 127
+                },
+                {
+                    "id": 356,
+                    "num_articulo": 356,
+                    "num_inciso": 1,
+                    "simbolo": "Gs",
+                    "nombre_corto": "Gastos y pagos del Estado",
+                    "pag": 128
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Banco Central",
+            "color": "bg-blue-800",
+            "data": [
+                {
+                    "id": 357,
+                    "num_articulo": 357,
+                    "num_inciso": 2,
+                    "simbolo": "Bc",
+                    "nombre_corto": "Banco Central",
+                    "pag": 128
+                },
+                {
+                    "id": 358,
+                    "num_articulo": 358,
+                    "num_inciso": 3,
+                    "simbolo": "Bc",
+                    "nombre_corto": "Misión del Banco Central",
+                    "pag": 128
+                },
+                {
+                    "id": 359,
+                    "num_articulo": 359,
+                    "num_inciso": 1,
+                    "simbolo": "Bc",
+                    "nombre_corto": "Atribuciones del Banco Central",
+                    "pag": 129
+                },
+                {
+                    "id": 360,
+                    "num_articulo": 360,
+                    "num_inciso": 3,
+                    "simbolo": "Bc",
+                    "nombre_corto": "Operaciones del Banco Central",
+                    "pag": 129
+                },
+                {
+                    "id": 361,
+                    "num_articulo": 361,
+                    "num_inciso": 1,
+                    "simbolo": "Bc",
+                    "nombre_corto": "Rendición de cuentas del Banco Central",
+                    "pag": 129
+                },
+                {
+                    "id": 362,
+                    "num_articulo": 362,
+                    "num_inciso": 5,
+                    "simbolo": "Cb",
+                    "nombre_corto": "Consejo del Banco Central",
+                    "pag": 129
+                },
+                {
+                    "id": 363,
+                    "num_articulo": 363,
+                    "num_inciso": 3,
+                    "simbolo": "Cb",
+                    "nombre_corto": "Consego del Banco Central II",
+                    "pag": 130
+                },
+                {
+                    "id": 364,
+                    "num_articulo": 364,
+                    "num_inciso": 2,
+                    "simbolo": "Cb",
+                    "nombre_corto": "Consego del Banco Central III",
+                    "pag": 130
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Ministerio Público",
+            "color": "bg-green-400",
+            "data": [
+                {
+                    "id": 365,
+                    "num_articulo": 365,
+                    "num_inciso": 7,
+                    "simbolo": "Mp",
+                    "nombre_corto": "Misterio Público",
+                    "pag": 130
+                },
+                {
+                    "id": 366,
+                    "num_articulo": 366,
+                    "num_inciso": 3,
+                    "simbolo": "Mp",
+                    "nombre_corto": "Atribuciones del Misterio Público",
+                    "pag": 131
+                },
+                {
+                    "id": 367,
+                    "num_articulo": 367,
+                    "num_inciso": 3,
+                    "simbolo": "Fr",
+                    "nombre_corto": "Fiscalías regionales",
+                    "pag": 131
+                },
+                {
+                    "id": 368,
+                    "num_articulo": 368,
+                    "num_inciso": 4,
+                    "simbolo": "Fn",
+                    "nombre_corto": "Fiscal Nacional",
+                    "pag": 132
+                },
+                {
+                    "id": 369,
+                    "num_articulo": 369,
+                    "num_inciso": 3,
+                    "simbolo": "Mp",
+                    "nombre_corto": "Comité del Misterio Público",
+                    "pag": 132
+                },
+                {
+                    "id": 370,
+                    "num_articulo": 370,
+                    "num_inciso": 1,
+                    "simbolo": "Fk",
+                    "nombre_corto": "Fiscales adjuntos",
+                    "pag": 133
+                },
+                {
+                    "id": 371,
+                    "num_articulo": 371,
+                    "num_inciso": 1,
+                    "simbolo": "Ff",
+                    "nombre_corto": "Fiscales Nacionales rionales: rendición de cuentas",
+                    "pag": 133
+                },
+                {
+                    "id": 372,
+                    "num_articulo": 372,
+                    "num_inciso": 7,
+                    "simbolo": "Ff",
+                    "nombre_corto": "Fiscales Nacionales rionales: proceso de remoción",
+                    "pag": 133
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Defensoría Penal Pública",
+            "color": "bg-purple-200",
+            "data": [
+                {
+                    "id": 373,
+                    "num_articulo": 373,
+                    "num_inciso": 3,
+                    "simbolo": "Pn",
+                    "nombre_corto": "Defensoría Penal Pública",
+                    "pag": 134
+                },
+                {
+                    "id": 374,
+                    "num_articulo": 374,
+                    "num_inciso": 2,
+                    "simbolo": "Pn",
+                    "nombre_corto": "Defensoras y defensores penales",
+                    "pag": 134
+                },
+                {
+                    "id": 375,
+                    "num_articulo": 375,
+                    "num_inciso": 2,
+                    "simbolo": "Dn",
+                    "nombre_corto": "Defensor(a) Nacional",
+                    "pag": 134
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Agencia Nacional de Protección de Datos",
+            "color": "bg-purple-500",
+            "data": [
+                {
+                    "id": 376,
+                    "num_articulo": 376,
+                    "num_inciso": 1,
+                    "simbolo": "Dz",
+                    "nombre_corto": "Agencia Nacional de Protección de Datos",
+                    "pag": 134
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Corte Constitucional",
+            "color": "bg-purple-300",
+            "data": [
+                {
+                    "id": 377,
+                    "num_articulo": 377,
+                    "num_inciso": 1,
+                    "simbolo": "Cz",
+                    "nombre_corto": "Corte Constitucional",
+                    "pag": 135
+                },
+                {
+                    "id": 378,
+                    "num_articulo": 378,
+                    "num_inciso": 3,
+                    "simbolo": "Cz",
+                    "nombre_corto": "Composición de la Corte Constitucional",
+                    "pag": 135
+                },
+                {
+                    "id": 379,
+                    "num_articulo": 379,
+                    "num_inciso": 1,
+                    "simbolo": "Jc",
+                    "nombre_corto": "Juezas y jueces de la Corte Constitucional",
+                    "pag": 135
+                },
+                {
+                    "id": 380,
+                    "num_articulo": 380,
+                    "num_inciso": 4,
+                    "simbolo": "Jc",
+                    "nombre_corto": "Juezas y jueces de la Corte Constitucional II",
+                    "pag": 136
+                },
+                {
+                    "id": 381,
+                    "num_articulo": 381,
+                    "num_inciso": 3,
+                    "simbolo": "Cz",
+                    "nombre_corto": "Atribuciones de la Corte Constitucional",
+                    "pag": 136
+                },
+                {
+                    "id": 382,
+                    "num_articulo": 382,
+                    "num_inciso": 4,
+                    "simbolo": "Cz",
+                    "nombre_corto": "Sentencia de la Corte Constitucional",
+                    "pag": 138
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Reforma constitucional",
+            "color": "bg-red-100",
+            "data": [
+                {
+                    "id": 383,
+                    "num_articulo": 383,
+                    "num_inciso": 5,
+                    "simbolo": "Rc",
+                    "nombre_corto": "Reforma constitucional",
+                    "pag": 139
+                },
+                {
+                    "id": 384,
+                    "num_articulo": 384,
+                    "num_inciso": 5,
+                    "simbolo": "Rrr",
+                    "nombre_corto": "Referéndum ratificatorio de reformas",
+                    "pag": 139
+                },
+                {
+                    "id": 385,
+                    "num_articulo": 385,
+                    "num_inciso": 4,
+                    "simbolo": "Pr",
+                    "nombre_corto": "Propuesta de reporna ciudadana",
+                    "pag": 140
+                }
+            ]
+        }
+    },
+    {
+        "capitulo": {
+            "nombre": "Cambio de Constitución",
+            "color": "bg-red-400",
+            "data": [
+                {
+                    "id": 386,
+                    "num_articulo": 386,
+                    "num_inciso": 5,
+                    "simbolo": "Nc",
+                    "nombre_corto": "Nueva Constitución",
+                    "pag": 140
+                },
+                {
+                    "id": 387,
+                    "num_articulo": 387,
+                    "num_inciso": 3,
+                    "simbolo": "Ac",
+                    "nombre_corto": "Asamblea Constituyente",
+                    "pag": 141
+                },
+                {
+                    "id": 388,
+                    "num_articulo": 388,
+                    "num_inciso": 2,
+                    "simbolo": "Ra",
+                    "nombre_corto": "Referéndum de aprobación de la Nueva Constitución",
+                    "pag": 141
                 }
             ]
         }

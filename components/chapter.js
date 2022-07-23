@@ -9,7 +9,7 @@ export default function Capitulo (props) {
           <span className={`w-6 h-6 inline-block flex-none shadow-3xl rounded-full ${info.color} mr-5`}></span>
           <h2 className="text-lg font-bold md:text-2xl">{info.nombre}</h2>
         </div>
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-5 lg:grid-cols-5 xl:grid-cols-8">
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-8">
           {info.data.map((data) => {
             return (
                 <Link key={data.nombre_corto} href={`/articulo/${data.id}`}>
