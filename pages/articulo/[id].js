@@ -7,7 +7,7 @@ export default function Articulo () {
   const { id } = router.query
 
   return (
-      <section className="flex-col mt-2 lg:-mt-8 w-full md:w-10/12 lg:w-1/2 lg:text-xl xl:-mt-20">
+      <section className="flex-col w-full md:w-10/12 lg:w-1/2 lg:text-xl">
         <div className="tracking-wide">
           {
             data.map(articulo => {
@@ -18,17 +18,15 @@ export default function Articulo () {
                           {articulo.nombre_corto}
                         </div>
                         <div className="p-4 m-4 lg:p-10 shadow-xl rounded-md">
-                          <ul className="list-decimal list-inside">
                             {
                               articulo.contenido.map(c => {
                                 return (
-                                  <li className="mt-2" key={articulo.id}>
+                                  <p className="mt-2" key={articulo.id}>
                                     {c}
-                                  </li>
+                                  </p>
                                 )
                               })
                           }
-                          </ul>
                         </div>
                     </div>
                 )

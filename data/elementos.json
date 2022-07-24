@@ -57,13 +57,13 @@
                     "num_articulo": 5,
                     "num_inciso": 3,
                     "simbolo": "Pl",
-                    "nombre_corto": "Plirinacionalidad",
+                    "nombre_corto": "Plurinacionalidad",
                     "pag": 5
                 },
                 {
                     "id": 8,
                     "num_articulo": 6,
-                    "num_inciso": 5,
+                    "num_inciso": 4,
                     "simbolo": "Is",
                     "nombre_corto": "Igualdad sexogenérica",
                     "pag": 6
@@ -78,7 +78,7 @@
                 },
                 {
                     "id": 9,
-                    "num_articulo": 7,
+                    "num_articulo": 8,
                     "num_inciso": 1,
                     "simbolo": "Eq",
                     "nombre_corto": "Equilibrio con la naturaleza",
@@ -214,7 +214,7 @@
                 },
                 {
                     "id": 37,
-                    "num_articulo": 24,
+                    "num_articulo": 25,
                     "num_inciso": 5,
                     "simbolo": "Ig",
                     "nombre_corto": "Igualdad y no discriminación",
@@ -230,8 +230,8 @@
                 },
                 {
                     "id": 39,
-                    "num_articulo": 2,
-                    "num_inciso": 5,
+                    "num_articulo": 27,
+                    "num_inciso": 2,
                     "simbolo": "Vg",
                     "nombre_corto": "Vida libre de violencia de género",
                     "pag": 12
@@ -639,7 +639,7 @@
                 {
                     "id": 90,
                     "num_articulo": 78,
-                    "num_inciso": 1,
+                    "num_inciso": 6,
                     "simbolo": "Po",
                     "nombre_corto": "Propiedad",
                     "pag": 28
@@ -681,7 +681,7 @@
                     "num_articulo": 83,
                     "num_inciso": 3,
                     "simbolo": "If",
-                    "nombre_corto": "Libertad de expresión",
+                    "nombre_corto": "Libertad de información",
                     "pag": 30
                 },
                 {
@@ -1569,7 +1569,7 @@
                     "num_articulo": 182,
                     "num_inciso": 5,
                     "simbolo": "Ee",
-                    "nombre_corto": "EStado empresario",
+                    "nombre_corto": "Estado empresario",
                     "pag": 61
                 },
                 {
@@ -1857,7 +1857,7 @@
                     "num_articulo": 216,
                     "num_inciso": 2,
                     "simbolo": "Vc",
-                    "nombre_corto": "Participación polñitica comunal",
+                    "nombre_corto": "Participación política comunal",
                     "pag": 72
                 },
                 {
@@ -2083,14 +2083,6 @@
                     "simbolo": "An",
                     "nombre_corto": "Territorio Chileno Antártico",
                     "pag": 81
-                },
-                {
-                    "id": 241,
-                    "num_articulo": 241,
-                    "num_inciso": 2,
-                    "simbolo": "Fd",
-                    "nombre_corto": "Fondo para Territorios Especiales",
-                    "pag": 80
                 }
             ]
         }
@@ -2286,7 +2278,7 @@
                 },
                 {
                     "id": 262,
-                    "num_articulo": 263,
+                    "num_articulo": 262,
                     "num_inciso": 1,
                     "simbolo": "Rv",
                     "nombre_corto": "Renovación del Congreso y Cámara",
@@ -2385,7 +2377,7 @@
                     "num_articulo": 273,
                     "num_inciso": 2,
                     "simbolo": "Rq",
-                    "nombre_corto": "requerimientos de la Cámara de conocer proyectos de ley",
+                    "nombre_corto": "Requerimientos de la Cámara de conocer proyectos de ley",
                     "pag": 98
                 },
                 {
@@ -2585,7 +2577,7 @@
                     "num_articulo": 297,
                     "num_inciso": 5,
                     "simbolo": "Pk",
-                    "nombre_corto": "Plicías",
+                    "nombre_corto": "Policías",
                     "pag": 108
                 },
                 {
@@ -2641,7 +2633,7 @@
                     "num_articulo": 304,
                     "num_inciso": 2,
                     "simbolo": "Rx",
-                    "nombre_corto": "regulación del estado de excepción",
+                    "nombre_corto": "Regulación del estado de excepción",
                     "pag": 112
                 },
                 {
@@ -2833,7 +2825,7 @@
                     "num_articulo": 327,
                     "num_inciso": 1,
                     "simbolo": "Sj",
-                    "nombre_corto": "Siste,a Nacional de Justicia",
+                    "nombre_corto": "Sistema Nacional de Justicia",
                     "pag": 118
                 },
                 {
@@ -2929,7 +2921,7 @@
                     "num_articulo": 339,
                     "num_inciso": 7,
                     "simbolo": "Tc",
-                    "nombre_corto": "Tribunal Calificador de Elecciones ",
+                    "nombre_corto": "Tribunal Calificador de Elecciones",
                     "pag": 121
                 },
                 {
@@ -3153,7 +3145,7 @@
                     "num_articulo": 363,
                     "num_inciso": 3,
                     "simbolo": "Cb",
-                    "nombre_corto": "Consego del Banco Central II",
+                    "nombre_corto": "Consejo del Banco Central II",
                     "pag": 130
                 },
                 {
@@ -3161,7 +3153,7 @@
                     "num_articulo": 364,
                     "num_inciso": 2,
                     "simbolo": "Cb",
-                    "nombre_corto": "Consego del Banco Central III",
+                    "nombre_corto": "Consejo del Banco Central III",
                     "pag": 130
                 }
             ]

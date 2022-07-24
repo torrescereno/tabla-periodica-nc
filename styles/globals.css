@@ -19,6 +19,6 @@ a {
   box-sizing: border-box;
 }
 
-.wave .shape-fill {
+.wave {
   fill: rgba(76, 29, 149, 1);
 }

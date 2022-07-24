@@ -157,7 +157,7 @@ const indice = [
 export default function Description () {
   return (
         <>
-            <div className="w-fulljustify-center items-center text-center lg:-mt-20 lg:flex-col">
+            <div className="justify-center items-center text-center lg:flex-col">
               <Title title="Índice"/>
               <section className="md:grid md:grid-cols-2 md:gap-1 md:ml-12">
                 {
